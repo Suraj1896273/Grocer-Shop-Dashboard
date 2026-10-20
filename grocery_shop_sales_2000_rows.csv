@@ -1,0 +1,2001 @@
+﻿sale_id,date,product_name,category,quantity,unit_price_inr,payment_mode,total_amount_inr
+SHOP001,05-02-2026,Bathing Bar Pack,Personal Care,1,53,Cash,53
+SHOP002,28-03-2026,Rice 5kg,Grocery,2,338,Credit Card,676
+SHOP003,04-01-2026,Handwash 250ml,Personal Care,1,78,Credit Card,78
+SHOP004,13-03-2026,Milk 1L,Food & Beverage,1,61,Cash,61
+SHOP005,29-01-2026,Juice 1L,Food & Beverage,7,104,UPI,728
+SHOP006,21-01-2026,Handwash 250ml,Personal Care,1,73,UPI,73
+SHOP007,28-01-2026,Onion 1kg,Grocery,3,43,Debit Card,129
+SHOP008,13-01-2026,Eggs 12 pcs,Food & Beverage,7,87,Debit Card,609
+SHOP009,06-01-2026,Tissue Pack,Personal Care,5,41,UPI,205
+SHOP010,11-01-2026,Detergent 1kg,Personal Care,7,113,Debit Card,791
+SHOP011,15-03-2026,Dishwash Liquid,Personal Care,6,95,Cash,570
+SHOP012,26-03-2026,Juice 1L,Food & Beverage,1,74,Cash,74
+SHOP013,30-01-2026,Salt 1kg,Grocery,2,22,Credit Card,44
+SHOP014,23-03-2026,Potato 1kg,Grocery,8,32,Debit Card,256
+SHOP015,27-01-2026,Soft Drink 1L,Food & Beverage,6,66,Debit Card,396
+SHOP016,10-03-2026,Juice 1L,Food & Beverage,3,74,Cash,222
+SHOP017,04-02-2026,Soft Drink 1L,Food & Beverage,7,69,Cash,483
+SHOP018,30-01-2026,Biscuits Family Pack,Food & Beverage,1,45,Credit Card,45
+SHOP019,04-02-2026,Spices Pack,Grocery,7,55,Credit Card,385
+SHOP020,28-01-2026,Milk 1L,Food & Beverage,6,67,UPI,402
+SHOP021,19-01-2026,Potato 1kg,Grocery,8,38,Debit Card,304
+SHOP022,16-03-2026,Biscuits,Food & Beverage,5,23,UPI,115
+SHOP023,29-01-2026,Handwash 250ml,Personal Care,6,77,Cash,462
+SHOP024,07-01-2026,Shampoo 180ml,Personal Care,2,150,Credit Card,300
+SHOP025,29-03-2026,Biscuits,Food & Beverage,3,30,UPI,90
+SHOP026,18-02-2026,Face Wash 100g,Personal Care,7,94,UPI,658
+SHOP027,29-03-2026,Shampoo 180ml,Personal Care,1,143,Credit Card,143
+SHOP028,24-03-2026,Biscuits Family Pack,Food & Beverage,5,52,Debit Card,260
+SHOP029,21-01-2026,Eggs 12 pcs,Food & Beverage,7,94,UPI,658
+SHOP030,06-03-2026,Coffee 100g,Food & Beverage,3,109,Credit Card,327
+SHOP031,23-03-2026,Tissue Pack,Personal Care,5,50,Cash,250
+SHOP032,11-03-2026,Biscuits,Food & Beverage,3,25,Credit Card,75
+SHOP033,03-01-2026,Face Wash 100g,Personal Care,8,110,Credit Card,880
+SHOP034,08-01-2026,Lentils 1kg,Grocery,4,114,Cash,456
+SHOP035,04-03-2026,Handwash 250ml,Personal Care,2,67,Credit Card,134
+SHOP036,17-01-2026,Salt 1kg,Grocery,3,26,UPI,78
+SHOP037,09-03-2026,Detergent 1kg,Personal Care,5,115,UPI,575
+SHOP038,09-02-2026,Milk 1L,Food & Beverage,4,66,UPI,264
+SHOP039,26-02-2026,Biscuits Family Pack,Food & Beverage,6,55,UPI,330
+SHOP040,09-01-2026,Eggs 12 pcs,Food & Beverage,4,92,Debit Card,368
+SHOP041,17-03-2026,Coffee 100g,Food & Beverage,4,114,Cash,456
+SHOP042,30-01-2026,Coffee 100g,Food & Beverage,1,106,Credit Card,106
+SHOP043,07-03-2026,Bread,Food & Beverage,2,35,Cash,70
+SHOP044,28-01-2026,Sugar 1kg,Grocery,8,52,Cash,416
+SHOP045,01-02-2026,Flour 5kg,Grocery,8,239,UPI,1912
+SHOP046,13-01-2026,Spices Pack,Grocery,4,61,Credit Card,244
+SHOP047,24-02-2026,Biscuits Family Pack,Food & Beverage,6,48,UPI,288
+SHOP048,28-03-2026,Soap,Personal Care,1,44,Credit Card,44
+SHOP049,14-01-2026,Bread,Food & Beverage,6,36,Cash,216
+SHOP050,18-01-2026,Milk 1L,Food & Beverage,8,61,UPI,488
+SHOP051,01-02-2026,Soft Drink 1L,Food & Beverage,8,63,Credit Card,504
+SHOP052,07-01-2026,Soap,Personal Care,2,45,Credit Card,90
+SHOP053,22-02-2026,Noodles Pack,Food & Beverage,3,18,UPI,54
+SHOP054,08-01-2026,Toothpaste,Personal Care,7,81,Cash,567
+SHOP055,03-02-2026,Potato 1kg,Grocery,7,28,UPI,196
+SHOP056,20-01-2026,Cooking Oil 1L,Grocery,8,163,Cash,1304
+SHOP057,16-03-2026,Cooking Oil 1L,Grocery,1,156,Credit Card,156
+SHOP058,07-01-2026,Flour 5kg,Grocery,1,200,UPI,200
+SHOP059,08-01-2026,Shampoo 180ml,Personal Care,3,151,Credit Card,453
+SHOP060,18-03-2026,Tissue Pack,Personal Care,2,35,Credit Card,70
+SHOP061,16-01-2026,Biscuits Family Pack,Food & Beverage,7,42,Cash,294
+SHOP062,21-03-2026,Handwash 250ml,Personal Care,1,84,Credit Card,84
+SHOP063,03-02-2026,Tea 250g,Grocery,6,133,Cash,798
+SHOP064,31-01-2026,Biscuits Family Pack,Food & Beverage,6,57,Debit Card,342
+SHOP065,28-02-2026,Potato 1kg,Grocery,5,30,Debit Card,150
+SHOP066,28-02-2026,Salt 1kg,Grocery,1,19,Credit Card,19
+SHOP067,06-03-2026,Noodles Pack,Food & Beverage,4,23,Debit Card,92
+SHOP068,01-02-2026,Biscuits,Food & Beverage,2,25,Debit Card,50
+SHOP069,11-03-2026,Cooking Oil 1L,Grocery,8,155,Debit Card,1240
+SHOP070,27-03-2026,Face Wash 100g,Personal Care,1,131,Debit Card,131
+SHOP071,03-02-2026,Biscuits Family Pack,Food & Beverage,3,38,Credit Card,114
+SHOP072,06-02-2026,Eggs 12 pcs,Food & Beverage,5,89,Cash,445
+SHOP073,29-03-2026,Juice 1L,Food & Beverage,4,91,Debit Card,364
+SHOP074,07-01-2026,Shampoo 180ml,Personal Care,5,150,Credit Card,750
+SHOP075,06-01-2026,Bathing Bar Pack,Personal Care,5,63,Credit Card,315
+SHOP076,21-01-2026,Onion 1kg,Grocery,5,39,UPI,195
+SHOP077,15-01-2026,Detergent 1kg,Personal Care,1,123,Credit Card,123
+SHOP078,17-02-2026,Juice 1L,Food & Beverage,1,79,Cash,79
+SHOP079,09-02-2026,Tea 250g,Grocery,1,119,Debit Card,119
+SHOP080,15-02-2026,Spices Pack,Grocery,1,90,Cash,90
+SHOP081,15-02-2026,Biscuits Family Pack,Food & Beverage,2,42,UPI,84
+SHOP082,31-01-2026,Face Wash 100g,Personal Care,3,137,Cash,411
+SHOP083,22-02-2026,Spices Pack,Grocery,3,86,Credit Card,258
+SHOP084,27-03-2026,Soft Drink 1L,Food & Beverage,7,65,Cash,455
+SHOP085,18-02-2026,Sugar 1kg,Grocery,2,44,Credit Card,88
+SHOP086,26-01-2026,Tissue Pack,Personal Care,4,45,UPI,180
+SHOP087,29-01-2026,Lentils 1kg,Grocery,4,114,Credit Card,456
+SHOP088,12-02-2026,Biscuits Family Pack,Food & Beverage,7,41,Debit Card,287
+SHOP089,14-02-2026,Tissue Pack,Personal Care,5,32,UPI,160
+SHOP090,04-01-2026,Biscuits Family Pack,Food & Beverage,6,52,Credit Card,312
+SHOP091,05-01-2026,Sugar 1kg,Grocery,5,44,Credit Card,220
+SHOP092,10-02-2026,Face Wash 100g,Personal Care,6,117,UPI,702
+SHOP093,19-02-2026,Face Wash 100g,Personal Care,2,122,Cash,244
+SHOP094,01-01-2026,Sugar 1kg,Grocery,7,42,Cash,294
+SHOP095,27-03-2026,Lentils 1kg,Grocery,2,118,Debit Card,236
+SHOP096,08-02-2026,Face Wash 100g,Personal Care,2,110,Debit Card,220
+SHOP097,21-02-2026,Biscuits Family Pack,Food & Beverage,6,48,Debit Card,288
+SHOP098,23-02-2026,Detergent 1kg,Personal Care,4,114,UPI,456
+SHOP099,20-03-2026,Biscuits Family Pack,Food & Beverage,3,58,Debit Card,174
+SHOP100,08-02-2026,Potato 1kg,Grocery,1,36,Debit Card,36
+SHOP101,01-03-2026,Milk 1L,Food & Beverage,6,64,UPI,384
+SHOP102,07-03-2026,Soap,Personal Care,4,43,UPI,172
+SHOP103,26-03-2026,Spices Pack,Grocery,3,85,Credit Card,255
+SHOP104,12-01-2026,Cooking Oil 1L,Grocery,6,166,Cash,996
+SHOP105,26-01-2026,Biscuits Family Pack,Food & Beverage,4,44,Cash,176
+SHOP106,02-03-2026,Coffee 100g,Food & Beverage,4,105,Credit Card,420
+SHOP107,31-03-2026,Soap,Personal Care,4,39,UPI,156
+SHOP108,19-01-2026,Toothpaste,Personal Care,4,87,Credit Card,348
+SHOP109,24-02-2026,Salt 1kg,Grocery,2,30,Cash,60
+SHOP110,13-03-2026,Soft Drink 1L,Food & Beverage,1,69,Cash,69
+SHOP111,18-01-2026,Tissue Pack,Personal Care,8,33,UPI,264
+SHOP112,26-02-2026,Biscuits Family Pack,Food & Beverage,6,51,UPI,306
+SHOP113,21-01-2026,Dishwash Liquid,Personal Care,8,90,UPI,720
+SHOP114,23-03-2026,Soap,Personal Care,4,37,Debit Card,148
+SHOP115,22-03-2026,Salt 1kg,Grocery,8,30,Cash,240
+SHOP116,06-02-2026,Sugar 1kg,Grocery,2,49,Cash,98
+SHOP117,11-03-2026,Sugar 1kg,Grocery,6,47,Credit Card,282
+SHOP118,19-02-2026,Biscuits,Food & Beverage,4,22,Cash,88
+SHOP119,23-02-2026,Juice 1L,Food & Beverage,2,83,UPI,166
+SHOP120,08-01-2026,Onion 1kg,Grocery,7,49,Cash,343
+SHOP121,16-03-2026,Dishwash Liquid,Personal Care,7,81,Credit Card,567
+SHOP122,03-03-2026,Tissue Pack,Personal Care,7,58,Credit Card,406
+SHOP123,23-02-2026,Lentils 1kg,Grocery,7,114,Cash,798
+SHOP124,25-02-2026,Toothpaste,Personal Care,5,82,UPI,410
+SHOP125,27-03-2026,Coffee 100g,Food & Beverage,6,111,UPI,666
+SHOP126,17-01-2026,Flour 5kg,Grocery,8,190,Credit Card,1520
+SHOP127,11-01-2026,Potato 1kg,Grocery,1,37,UPI,37
+SHOP128,07-01-2026,Biscuits,Food & Beverage,3,27,Debit Card,81
+SHOP129,28-02-2026,Potato 1kg,Grocery,4,33,Debit Card,132
+SHOP130,23-02-2026,Onion 1kg,Grocery,5,47,Debit Card,235
+SHOP131,03-01-2026,Dishwash Liquid,Personal Care,8,60,Credit Card,480
+SHOP132,25-03-2026,Lentils 1kg,Grocery,2,112,Credit Card,224
+SHOP133,26-01-2026,Salt 1kg,Grocery,4,18,Credit Card,72
+SHOP134,17-01-2026,Face Wash 100g,Personal Care,4,99,UPI,396
+SHOP135,01-03-2026,Biscuits Family Pack,Food & Beverage,4,38,Debit Card,152
+SHOP136,19-03-2026,Salt 1kg,Grocery,3,23,Credit Card,69
+SHOP137,14-01-2026,Salt 1kg,Grocery,5,20,Credit Card,100
+SHOP138,20-02-2026,Cooking Oil 1L,Grocery,7,168,Cash,1176
+SHOP139,14-01-2026,Noodles Pack,Food & Beverage,4,24,Debit Card,96
+SHOP140,14-03-2026,Tissue Pack,Personal Care,2,51,Credit Card,102
+SHOP141,26-03-2026,Lentils 1kg,Grocery,7,122,Debit Card,854
+SHOP142,02-01-2026,Noodles Pack,Food & Beverage,6,23,UPI,138
+SHOP143,25-02-2026,Dishwash Liquid,Personal Care,2,86,Debit Card,172
+SHOP144,20-01-2026,Bathing Bar Pack,Personal Care,8,78,UPI,624
+SHOP145,01-03-2026,Soft Drink 1L,Food & Beverage,8,63,UPI,504
+SHOP146,11-02-2026,Dishwash Liquid,Personal Care,5,92,Cash,460
+SHOP147,27-02-2026,Dishwash Liquid,Personal Care,5,60,Cash,300
+SHOP148,13-02-2026,Salt 1kg,Grocery,7,25,Credit Card,175
+SHOP149,04-03-2026,Toothpaste,Personal Care,3,85,Cash,255
+SHOP150,05-02-2026,Lentils 1kg,Grocery,6,113,Debit Card,678
+SHOP151,11-01-2026,Detergent 1kg,Personal Care,4,110,Cash,440
+SHOP152,13-03-2026,Flour 5kg,Grocery,8,206,Cash,1648
+SHOP153,27-02-2026,Juice 1L,Food & Beverage,8,100,Credit Card,800
+SHOP154,21-02-2026,Noodles Pack,Food & Beverage,4,19,Cash,76
+SHOP155,02-03-2026,Cooking Oil 1L,Grocery,6,171,Debit Card,1026
+SHOP156,15-02-2026,Tea 250g,Grocery,6,132,UPI,792
+SHOP157,30-01-2026,Sugar 1kg,Grocery,5,46,Credit Card,230
+SHOP158,16-01-2026,Flour 5kg,Grocery,6,192,Cash,1152
+SHOP159,05-02-2026,Milk 1L,Food & Beverage,8,61,Debit Card,488
+SHOP160,30-01-2026,Eggs 12 pcs,Food & Beverage,5,91,Debit Card,455
+SHOP161,10-03-2026,Soft Drink 1L,Food & Beverage,1,64,Cash,64
+SHOP162,12-03-2026,Sugar 1kg,Grocery,1,42,Debit Card,42
+SHOP163,14-01-2026,Juice 1L,Food & Beverage,8,78,Credit Card,624
+SHOP164,03-03-2026,Handwash 250ml,Personal Care,8,74,UPI,592
+SHOP165,02-02-2026,Onion 1kg,Grocery,1,40,UPI,40
+SHOP166,04-03-2026,Eggs 12 pcs,Food & Beverage,7,87,Credit Card,609
+SHOP167,20-01-2026,Handwash 250ml,Personal Care,1,85,Cash,85
+SHOP168,11-01-2026,Spices Pack,Grocery,5,71,Cash,355
+SHOP169,08-03-2026,Eggs 12 pcs,Food & Beverage,4,98,UPI,392
+SHOP170,17-03-2026,Soap,Personal Care,5,40,UPI,200
+SHOP171,20-03-2026,Cooking Oil 1L,Grocery,1,168,Credit Card,168
+SHOP172,03-02-2026,Salt 1kg,Grocery,4,21,Credit Card,84
+SHOP173,12-03-2026,Soft Drink 1L,Food & Beverage,3,62,Credit Card,186
+SHOP174,27-02-2026,Soft Drink 1L,Food & Beverage,7,55,UPI,385
+SHOP175,06-02-2026,Cooking Oil 1L,Grocery,4,151,Debit Card,604
+SHOP176,29-03-2026,Juice 1L,Food & Beverage,2,99,Cash,198
+SHOP177,24-02-2026,Sugar 1kg,Grocery,4,54,Credit Card,216
+SHOP178,04-02-2026,Detergent 1kg,Personal Care,3,117,Cash,351
+SHOP179,09-02-2026,Noodles Pack,Food & Beverage,3,15,Debit Card,45
+SHOP180,30-03-2026,Soap,Personal Care,8,34,Debit Card,272
+SHOP181,06-03-2026,Juice 1L,Food & Beverage,5,95,UPI,475
+SHOP182,25-02-2026,Soap,Personal Care,1,34,Debit Card,34
+SHOP183,12-01-2026,Face Wash 100g,Personal Care,1,106,Cash,106
+SHOP184,28-03-2026,Biscuits Family Pack,Food & Beverage,1,53,Debit Card,53
+SHOP185,02-03-2026,Handwash 250ml,Personal Care,3,66,UPI,198
+SHOP186,23-03-2026,Sugar 1kg,Grocery,7,44,UPI,308
+SHOP187,22-02-2026,Noodles Pack,Food & Beverage,6,22,Debit Card,132
+SHOP188,12-02-2026,Onion 1kg,Grocery,3,38,UPI,114
+SHOP189,26-03-2026,Juice 1L,Food & Beverage,5,101,UPI,505
+SHOP190,28-02-2026,Dishwash Liquid,Personal Care,1,90,Credit Card,90
+SHOP191,15-01-2026,Onion 1kg,Grocery,6,43,UPI,258
+SHOP192,26-03-2026,Tissue Pack,Personal Care,1,46,UPI,46
+SHOP193,08-03-2026,Tea 250g,Grocery,4,116,Debit Card,464
+SHOP194,22-03-2026,Face Wash 100g,Personal Care,8,138,UPI,1104
+SHOP195,04-02-2026,Salt 1kg,Grocery,4,18,Cash,72
+SHOP196,16-01-2026,Cooking Oil 1L,Grocery,8,164,Credit Card,1312
+SHOP197,21-01-2026,Bathing Bar Pack,Personal Care,4,69,Debit Card,276
+SHOP198,12-01-2026,Detergent 1kg,Personal Care,7,110,Cash,770
+SHOP199,16-01-2026,Dishwash Liquid,Personal Care,8,62,Cash,496
+SHOP200,23-02-2026,Toothpaste,Personal Care,5,84,UPI,420
+SHOP201,12-03-2026,Toothpaste,Personal Care,8,82,Cash,656
+SHOP202,09-01-2026,Potato 1kg,Grocery,3,31,Debit Card,93
+SHOP203,13-02-2026,Salt 1kg,Grocery,7,30,Debit Card,210
+SHOP204,08-02-2026,Dishwash Liquid,Personal Care,5,55,UPI,275
+SHOP205,10-03-2026,Tissue Pack,Personal Care,8,34,UPI,272
+SHOP206,28-02-2026,Lentils 1kg,Grocery,7,115,Debit Card,805
+SHOP207,15-03-2026,Tissue Pack,Personal Care,4,36,UPI,144
+SHOP208,10-02-2026,Rice 5kg,Grocery,1,356,UPI,356
+SHOP209,26-03-2026,Juice 1L,Food & Beverage,7,94,Cash,658
+SHOP210,06-03-2026,Toothpaste,Personal Care,3,76,Debit Card,228
+SHOP211,13-01-2026,Tissue Pack,Personal Care,8,33,UPI,264
+SHOP212,25-03-2026,Coffee 100g,Food & Beverage,7,107,Cash,749
+SHOP213,13-02-2026,Noodles Pack,Food & Beverage,5,22,UPI,110
+SHOP214,28-03-2026,Bathing Bar Pack,Personal Care,6,52,UPI,312
+SHOP215,21-03-2026,Onion 1kg,Grocery,1,50,Credit Card,50
+SHOP216,30-01-2026,Rice 5kg,Grocery,5,370,Credit Card,1850
+SHOP217,26-02-2026,Tea 250g,Grocery,2,118,Cash,236
+SHOP218,06-01-2026,Juice 1L,Food & Beverage,1,89,Debit Card,89
+SHOP219,15-02-2026,Spices Pack,Grocery,5,38,Debit Card,190
+SHOP220,09-03-2026,Tea 250g,Grocery,4,119,UPI,476
+SHOP221,22-01-2026,Handwash 250ml,Personal Care,3,86,Cash,258
+SHOP222,21-03-2026,Noodles Pack,Food & Beverage,7,24,Cash,168
+SHOP223,30-01-2026,Toothpaste,Personal Care,3,93,UPI,279
+SHOP224,02-02-2026,Bathing Bar Pack,Personal Care,8,58,Credit Card,464
+SHOP225,28-03-2026,Spices Pack,Grocery,5,64,Cash,320
+SHOP226,17-03-2026,Noodles Pack,Food & Beverage,6,22,Debit Card,132
+SHOP227,30-03-2026,Bathing Bar Pack,Personal Care,7,80,Debit Card,560
+SHOP228,19-02-2026,Soap,Personal Care,4,37,UPI,148
+SHOP229,15-03-2026,Eggs 12 pcs,Food & Beverage,7,92,Debit Card,644
+SHOP230,03-01-2026,Handwash 250ml,Personal Care,5,74,UPI,370
+SHOP231,19-03-2026,Sugar 1kg,Grocery,1,42,UPI,42
+SHOP232,19-03-2026,Dishwash Liquid,Personal Care,4,73,Debit Card,292
+SHOP233,21-03-2026,Rice 5kg,Grocery,4,370,Debit Card,1480
+SHOP234,22-03-2026,Biscuits Family Pack,Food & Beverage,3,59,Credit Card,177
+SHOP235,09-02-2026,Bathing Bar Pack,Personal Care,1,70,UPI,70
+SHOP236,17-01-2026,Bread,Food & Beverage,6,39,Credit Card,234
+SHOP237,23-01-2026,Cooking Oil 1L,Grocery,7,160,Cash,1120
+SHOP238,09-03-2026,Biscuits,Food & Beverage,6,28,Debit Card,168
+SHOP239,03-03-2026,Dishwash Liquid,Personal Care,5,65,Debit Card,325
+SHOP240,15-01-2026,Flour 5kg,Grocery,6,235,UPI,1410
+SHOP241,28-03-2026,Noodles Pack,Food & Beverage,4,17,UPI,68
+SHOP242,12-01-2026,Tissue Pack,Personal Care,6,55,UPI,330
+SHOP243,28-02-2026,Coffee 100g,Food & Beverage,2,109,Debit Card,218
+SHOP244,16-03-2026,Biscuits Family Pack,Food & Beverage,5,58,UPI,290
+SHOP245,14-01-2026,Dishwash Liquid,Personal Care,6,95,Cash,570
+SHOP246,20-03-2026,Toothpaste,Personal Care,6,75,Cash,450
+SHOP247,31-03-2026,Bathing Bar Pack,Personal Care,8,52,Debit Card,416
+SHOP248,18-01-2026,Bathing Bar Pack,Personal Care,2,63,Credit Card,126
+SHOP249,15-01-2026,Bread,Food & Beverage,8,34,Credit Card,272
+SHOP250,19-02-2026,Rice 5kg,Grocery,3,364,UPI,1092
+SHOP251,17-03-2026,Lentils 1kg,Grocery,7,122,Cash,854
+SHOP252,04-03-2026,Tea 250g,Grocery,2,135,UPI,270
+SHOP253,28-01-2026,Sugar 1kg,Grocery,6,42,UPI,252
+SHOP254,13-01-2026,Soap,Personal Care,6,36,Debit Card,216
+SHOP255,08-01-2026,Detergent 1kg,Personal Care,6,130,UPI,780
+SHOP256,28-02-2026,Sugar 1kg,Grocery,2,45,Credit Card,90
+SHOP257,07-01-2026,Biscuits Family Pack,Food & Beverage,1,41,Debit Card,41
+SHOP258,09-01-2026,Rice 5kg,Grocery,4,338,Cash,1352
+SHOP259,12-02-2026,Handwash 250ml,Personal Care,4,71,Cash,284
+SHOP260,05-02-2026,Spices Pack,Grocery,1,73,Cash,73
+SHOP261,23-01-2026,Biscuits,Food & Beverage,5,28,Credit Card,140
+SHOP262,02-01-2026,Biscuits Family Pack,Food & Beverage,3,35,Debit Card,105
+SHOP263,17-03-2026,Spices Pack,Grocery,4,85,Debit Card,340
+SHOP264,07-01-2026,Coffee 100g,Food & Beverage,5,107,Cash,535
+SHOP265,09-01-2026,Flour 5kg,Grocery,2,206,UPI,412
+SHOP266,07-03-2026,Soap,Personal Care,6,45,Credit Card,270
+SHOP267,20-03-2026,Soap,Personal Care,4,41,Credit Card,164
+SHOP268,28-02-2026,Flour 5kg,Grocery,5,230,Credit Card,1150
+SHOP269,24-02-2026,Bread,Food & Beverage,7,37,Credit Card,259
+SHOP270,11-01-2026,Toothpaste,Personal Care,2,89,Debit Card,178
+SHOP271,17-01-2026,Face Wash 100g,Personal Care,2,99,Debit Card,198
+SHOP272,18-02-2026,Face Wash 100g,Personal Care,6,130,Debit Card,780
+SHOP273,13-01-2026,Soap,Personal Care,7,41,Credit Card,287
+SHOP274,25-02-2026,Tissue Pack,Personal Care,4,50,UPI,200
+SHOP275,28-02-2026,Rice 5kg,Grocery,6,356,UPI,2136
+SHOP276,24-02-2026,Tea 250g,Grocery,6,118,Debit Card,708
+SHOP277,20-01-2026,Biscuits Family Pack,Food & Beverage,6,43,UPI,258
+SHOP278,12-01-2026,Noodles Pack,Food & Beverage,2,16,UPI,32
+SHOP279,13-03-2026,Eggs 12 pcs,Food & Beverage,3,96,Credit Card,288
+SHOP280,27-03-2026,Handwash 250ml,Personal Care,6,82,Credit Card,492
+SHOP281,07-01-2026,Tea 250g,Grocery,7,126,Debit Card,882
+SHOP282,14-01-2026,Face Wash 100g,Personal Care,6,109,Cash,654
+SHOP283,29-01-2026,Biscuits,Food & Beverage,8,30,Credit Card,240
+SHOP284,15-01-2026,Lentils 1kg,Grocery,6,122,Debit Card,732
+SHOP285,13-03-2026,Handwash 250ml,Personal Care,7,72,Credit Card,504
+SHOP286,04-01-2026,Face Wash 100g,Personal Care,5,132,Cash,660
+SHOP287,13-02-2026,Sugar 1kg,Grocery,5,53,Debit Card,265
+SHOP288,14-03-2026,Coffee 100g,Food & Beverage,3,107,UPI,321
+SHOP289,12-01-2026,Noodles Pack,Food & Beverage,1,17,Cash,17
+SHOP290,13-02-2026,Potato 1kg,Grocery,8,34,Cash,272
+SHOP291,14-03-2026,Lentils 1kg,Grocery,6,114,Credit Card,684
+SHOP292,21-03-2026,Bread,Food & Beverage,3,32,Credit Card,96
+SHOP293,26-02-2026,Biscuits Family Pack,Food & Beverage,5,37,UPI,185
+SHOP294,23-02-2026,Toothpaste,Personal Care,8,94,Debit Card,752
+SHOP295,14-02-2026,Milk 1L,Food & Beverage,2,70,UPI,140
+SHOP296,09-03-2026,Eggs 12 pcs,Food & Beverage,8,94,Debit Card,752
+SHOP297,18-03-2026,Bread,Food & Beverage,7,33,Credit Card,231
+SHOP298,28-01-2026,Coffee 100g,Food & Beverage,5,108,Cash,540
+SHOP299,11-02-2026,Salt 1kg,Grocery,5,22,Credit Card,110
+SHOP300,23-01-2026,Coffee 100g,Food & Beverage,7,112,Cash,784
+SHOP301,06-03-2026,Potato 1kg,Grocery,4,36,Debit Card,144
+SHOP302,25-02-2026,Noodles Pack,Food & Beverage,1,21,Credit Card,21
+SHOP303,15-03-2026,Soap,Personal Care,6,34,UPI,204
+SHOP304,07-02-2026,Handwash 250ml,Personal Care,7,77,Credit Card,539
+SHOP305,22-01-2026,Potato 1kg,Grocery,6,28,UPI,168
+SHOP306,12-01-2026,Dishwash Liquid,Personal Care,6,99,UPI,594
+SHOP307,25-02-2026,Tissue Pack,Personal Care,4,33,UPI,132
+SHOP308,09-02-2026,Shampoo 180ml,Personal Care,7,137,Debit Card,959
+SHOP309,10-01-2026,Rice 5kg,Grocery,3,351,Credit Card,1053
+SHOP310,14-02-2026,Shampoo 180ml,Personal Care,4,151,Debit Card,604
+SHOP311,31-01-2026,Flour 5kg,Grocery,3,232,Credit Card,696
+SHOP312,23-01-2026,Biscuits,Food & Beverage,4,24,Cash,96
+SHOP313,23-01-2026,Salt 1kg,Grocery,2,30,UPI,60
+SHOP314,29-03-2026,Soap,Personal Care,8,45,Debit Card,360
+SHOP315,20-01-2026,Tissue Pack,Personal Care,6,50,UPI,300
+SHOP316,22-03-2026,Noodles Pack,Food & Beverage,8,22,Debit Card,176
+SHOP317,15-02-2026,Spices Pack,Grocery,1,52,Credit Card,52
+SHOP318,05-01-2026,Cooking Oil 1L,Grocery,8,164,Credit Card,1312
+SHOP319,24-03-2026,Lentils 1kg,Grocery,2,114,Credit Card,228
+SHOP320,01-03-2026,Face Wash 100g,Personal Care,7,128,Credit Card,896
+SHOP321,11-02-2026,Soap,Personal Care,4,45,UPI,180
+SHOP322,27-02-2026,Shampoo 180ml,Personal Care,1,139,Credit Card,139
+SHOP323,11-01-2026,Spices Pack,Grocery,6,88,Cash,528
+SHOP324,26-02-2026,Bread,Food & Beverage,8,33,Cash,264
+SHOP325,19-02-2026,Lentils 1kg,Grocery,5,116,UPI,580
+SHOP326,22-03-2026,Salt 1kg,Grocery,1,23,Debit Card,23
+SHOP327,13-03-2026,Noodles Pack,Food & Beverage,2,20,UPI,40
+SHOP328,12-02-2026,Cooking Oil 1L,Grocery,3,158,Credit Card,474
+SHOP329,14-02-2026,Handwash 250ml,Personal Care,3,86,Debit Card,258
+SHOP330,17-01-2026,Bathing Bar Pack,Personal Care,7,72,Credit Card,504
+SHOP331,24-03-2026,Cooking Oil 1L,Grocery,7,167,Debit Card,1169
+SHOP332,24-03-2026,Dishwash Liquid,Personal Care,2,63,UPI,126
+SHOP333,16-02-2026,Shampoo 180ml,Personal Care,1,146,Debit Card,146
+SHOP334,04-03-2026,Soft Drink 1L,Food & Beverage,6,61,Cash,366
+SHOP335,10-01-2026,Rice 5kg,Grocery,3,338,Debit Card,1014
+SHOP336,06-03-2026,Tissue Pack,Personal Care,2,55,Credit Card,110
+SHOP337,18-03-2026,Biscuits Family Pack,Food & Beverage,3,45,UPI,135
+SHOP338,30-03-2026,Biscuits,Food & Beverage,3,22,Cash,66
+SHOP339,22-02-2026,Flour 5kg,Grocery,1,208,Debit Card,208
+SHOP340,26-02-2026,Biscuits Family Pack,Food & Beverage,4,58,Debit Card,232
+SHOP341,30-01-2026,Salt 1kg,Grocery,8,29,Cash,232
+SHOP342,25-01-2026,Cooking Oil 1L,Grocery,8,175,Debit Card,1400
+SHOP343,01-03-2026,Biscuits Family Pack,Food & Beverage,8,53,Debit Card,424
+SHOP344,21-01-2026,Salt 1kg,Grocery,7,24,Cash,168
+SHOP345,02-02-2026,Spices Pack,Grocery,3,73,Credit Card,219
+SHOP346,12-03-2026,Bathing Bar Pack,Personal Care,6,65,Credit Card,390
+SHOP347,06-02-2026,Juice 1L,Food & Beverage,2,103,Credit Card,206
+SHOP348,27-02-2026,Salt 1kg,Grocery,5,20,Cash,100
+SHOP349,29-01-2026,Dishwash Liquid,Personal Care,2,82,UPI,164
+SHOP350,07-01-2026,Lentils 1kg,Grocery,7,105,UPI,735
+SHOP351,19-02-2026,Shampoo 180ml,Personal Care,4,146,Credit Card,584
+SHOP352,10-02-2026,Lentils 1kg,Grocery,1,112,Credit Card,112
+SHOP353,19-01-2026,Dishwash Liquid,Personal Care,6,100,Cash,600
+SHOP354,31-03-2026,Bread,Food & Beverage,8,34,Cash,272
+SHOP355,27-02-2026,Salt 1kg,Grocery,8,29,Credit Card,232
+SHOP356,28-01-2026,Noodles Pack,Food & Beverage,5,15,Cash,75
+SHOP357,15-01-2026,Detergent 1kg,Personal Care,7,129,Debit Card,903
+SHOP358,07-01-2026,Rice 5kg,Grocery,2,349,Cash,698
+SHOP359,09-01-2026,Tea 250g,Grocery,8,135,Credit Card,1080
+SHOP360,22-03-2026,Dishwash Liquid,Personal Care,1,86,Cash,86
+SHOP361,24-02-2026,Juice 1L,Food & Beverage,5,79,Credit Card,395
+SHOP362,15-03-2026,Face Wash 100g,Personal Care,4,112,UPI,448
+SHOP363,09-01-2026,Soft Drink 1L,Food & Beverage,6,57,Credit Card,342
+SHOP364,23-03-2026,Potato 1kg,Grocery,1,35,UPI,35
+SHOP365,15-02-2026,Lentils 1kg,Grocery,1,113,Credit Card,113
+SHOP366,16-03-2026,Lentils 1kg,Grocery,2,112,Debit Card,224
+SHOP367,11-03-2026,Biscuits,Food & Beverage,6,20,Debit Card,120
+SHOP368,29-03-2026,Dishwash Liquid,Personal Care,3,96,UPI,288
+SHOP369,18-01-2026,Juice 1L,Food & Beverage,3,100,Credit Card,300
+SHOP370,07-02-2026,Juice 1L,Food & Beverage,1,99,Cash,99
+SHOP371,10-02-2026,Bread,Food & Beverage,1,33,Debit Card,33
+SHOP372,02-02-2026,Shampoo 180ml,Personal Care,8,147,Credit Card,1176
+SHOP373,06-02-2026,Salt 1kg,Grocery,4,28,Debit Card,112
+SHOP374,25-03-2026,Tissue Pack,Personal Care,1,54,Debit Card,54
+SHOP375,25-02-2026,Sugar 1kg,Grocery,6,43,UPI,258
+SHOP376,13-02-2026,Flour 5kg,Grocery,7,208,Cash,1456
+SHOP377,08-03-2026,Toothpaste,Personal Care,6,90,Debit Card,540
+SHOP378,11-01-2026,Spices Pack,Grocery,7,40,UPI,280
+SHOP379,11-02-2026,Face Wash 100g,Personal Care,5,101,Credit Card,505
+SHOP380,09-02-2026,Noodles Pack,Food & Beverage,5,20,UPI,100
+SHOP381,22-01-2026,Face Wash 100g,Personal Care,7,135,UPI,945
+SHOP382,15-02-2026,Lentils 1kg,Grocery,1,119,UPI,119
+SHOP383,10-01-2026,Sugar 1kg,Grocery,1,52,UPI,52
+SHOP384,04-01-2026,Lentils 1kg,Grocery,3,121,Cash,363
+SHOP385,05-01-2026,Tissue Pack,Personal Care,8,49,Cash,392
+SHOP386,16-02-2026,Noodles Pack,Food & Beverage,6,18,UPI,108
+SHOP387,28-03-2026,Handwash 250ml,Personal Care,3,66,UPI,198
+SHOP388,10-01-2026,Lentils 1kg,Grocery,8,116,Cash,928
+SHOP389,10-02-2026,Shampoo 180ml,Personal Care,7,146,Debit Card,1022
+SHOP390,24-01-2026,Rice 5kg,Grocery,1,337,UPI,337
+SHOP391,03-02-2026,Shampoo 180ml,Personal Care,2,147,Debit Card,294
+SHOP392,20-03-2026,Juice 1L,Food & Beverage,4,98,Debit Card,392
+SHOP393,16-01-2026,Juice 1L,Food & Beverage,4,101,Cash,404
+SHOP394,23-01-2026,Tissue Pack,Personal Care,8,32,UPI,256
+SHOP395,27-03-2026,Noodles Pack,Food & Beverage,6,25,Debit Card,150
+SHOP396,08-02-2026,Juice 1L,Food & Beverage,5,74,Cash,370
+SHOP397,16-02-2026,Juice 1L,Food & Beverage,3,110,Cash,330
+SHOP398,31-01-2026,Eggs 12 pcs,Food & Beverage,3,91,UPI,273
+SHOP399,01-03-2026,Coffee 100g,Food & Beverage,6,110,Cash,660
+SHOP400,09-02-2026,Face Wash 100g,Personal Care,2,95,UPI,190
+SHOP401,22-02-2026,Juice 1L,Food & Beverage,7,100,Credit Card,700
+SHOP402,27-02-2026,Biscuits,Food & Beverage,2,25,UPI,50
+SHOP403,17-01-2026,Biscuits Family Pack,Food & Beverage,6,51,Cash,306
+SHOP404,06-03-2026,Salt 1kg,Grocery,7,20,Credit Card,140
+SHOP405,08-02-2026,Dishwash Liquid,Personal Care,3,62,Cash,186
+SHOP406,14-02-2026,Soft Drink 1L,Food & Beverage,4,65,Debit Card,260
+SHOP407,26-01-2026,Tissue Pack,Personal Care,5,32,Debit Card,160
+SHOP408,20-03-2026,Biscuits,Food & Beverage,5,30,Credit Card,150
+SHOP409,17-03-2026,Shampoo 180ml,Personal Care,3,155,Cash,465
+SHOP410,04-01-2026,Soft Drink 1L,Food & Beverage,1,65,Credit Card,65
+SHOP411,25-03-2026,Bread,Food & Beverage,5,40,Cash,200
+SHOP412,21-03-2026,Salt 1kg,Grocery,7,27,Credit Card,189
+SHOP413,24-03-2026,Toothpaste,Personal Care,5,95,Debit Card,475
+SHOP414,08-02-2026,Toothpaste,Personal Care,7,82,UPI,574
+SHOP415,26-02-2026,Noodles Pack,Food & Beverage,3,15,UPI,45
+SHOP416,13-02-2026,Toothpaste,Personal Care,4,89,Cash,356
+SHOP417,21-02-2026,Onion 1kg,Grocery,6,45,Cash,270
+SHOP418,10-02-2026,Salt 1kg,Grocery,2,23,Cash,46
+SHOP419,27-02-2026,Soap,Personal Care,5,34,Cash,170
+SHOP420,07-02-2026,Biscuits,Food & Beverage,1,21,UPI,21
+SHOP421,01-02-2026,Tissue Pack,Personal Care,7,49,Cash,343
+SHOP422,25-01-2026,Dishwash Liquid,Personal Care,6,75,Cash,450
+SHOP423,05-03-2026,Toothpaste,Personal Care,8,91,Debit Card,728
+SHOP424,20-02-2026,Toothpaste,Personal Care,2,75,UPI,150
+SHOP425,07-01-2026,Rice 5kg,Grocery,6,343,Credit Card,2058
+SHOP426,06-02-2026,Cooking Oil 1L,Grocery,8,165,Credit Card,1320
+SHOP427,18-01-2026,Tissue Pack,Personal Care,7,33,Debit Card,231
+SHOP428,16-02-2026,Flour 5kg,Grocery,7,203,Credit Card,1421
+SHOP429,16-02-2026,Potato 1kg,Grocery,4,28,Debit Card,112
+SHOP430,12-03-2026,Noodles Pack,Food & Beverage,8,21,Debit Card,168
+SHOP431,17-01-2026,Dishwash Liquid,Personal Care,2,94,Credit Card,188
+SHOP432,13-03-2026,Potato 1kg,Grocery,6,33,Debit Card,198
+SHOP433,19-03-2026,Salt 1kg,Grocery,4,20,UPI,80
+SHOP434,05-01-2026,Shampoo 180ml,Personal Care,1,136,Cash,136
+SHOP435,08-03-2026,Juice 1L,Food & Beverage,8,91,UPI,728
+SHOP436,11-02-2026,Biscuits,Food & Beverage,3,29,Debit Card,87
+SHOP437,17-03-2026,Soft Drink 1L,Food & Beverage,5,67,Debit Card,335
+SHOP438,14-03-2026,Shampoo 180ml,Personal Care,8,151,Debit Card,1208
+SHOP439,12-02-2026,Toothpaste,Personal Care,6,75,Credit Card,450
+SHOP440,30-03-2026,Tea 250g,Grocery,5,133,Credit Card,665
+SHOP441,25-03-2026,Face Wash 100g,Personal Care,5,120,Cash,600
+SHOP442,22-01-2026,Flour 5kg,Grocery,8,183,UPI,1464
+SHOP443,05-01-2026,Biscuits,Food & Beverage,4,30,Credit Card,120
+SHOP444,10-02-2026,Milk 1L,Food & Beverage,8,58,UPI,464
+SHOP445,22-02-2026,Biscuits,Food & Beverage,4,26,UPI,104
+SHOP446,18-01-2026,Tissue Pack,Personal Care,1,57,Cash,57
+SHOP447,09-03-2026,Detergent 1kg,Personal Care,8,120,UPI,960
+SHOP448,10-03-2026,Onion 1kg,Grocery,8,40,Debit Card,320
+SHOP449,20-03-2026,Detergent 1kg,Personal Care,5,121,UPI,605
+SHOP450,13-03-2026,Milk 1L,Food & Beverage,5,61,Debit Card,305
+SHOP451,27-01-2026,Rice 5kg,Grocery,5,349,UPI,1745
+SHOP452,13-03-2026,Onion 1kg,Grocery,6,50,Debit Card,300
+SHOP453,20-02-2026,Cooking Oil 1L,Grocery,7,153,Debit Card,1071
+SHOP454,07-02-2026,Salt 1kg,Grocery,3,30,Credit Card,90
+SHOP455,14-02-2026,Cooking Oil 1L,Grocery,2,172,UPI,344
+SHOP456,28-01-2026,Bathing Bar Pack,Personal Care,8,58,Cash,464
+SHOP457,13-03-2026,Dishwash Liquid,Personal Care,5,89,Debit Card,445
+SHOP458,01-02-2026,Biscuits,Food & Beverage,4,21,Credit Card,84
+SHOP459,23-03-2026,Biscuits Family Pack,Food & Beverage,4,51,Cash,204
+SHOP460,12-02-2026,Bread,Food & Beverage,7,31,UPI,217
+SHOP461,12-03-2026,Eggs 12 pcs,Food & Beverage,1,89,Cash,89
+SHOP462,03-03-2026,Tea 250g,Grocery,8,135,Cash,1080
+SHOP463,06-02-2026,Salt 1kg,Grocery,6,22,Credit Card,132
+SHOP464,10-03-2026,Salt 1kg,Grocery,4,19,Credit Card,76
+SHOP465,05-01-2026,Soft Drink 1L,Food & Beverage,3,68,UPI,204
+SHOP466,07-02-2026,Spices Pack,Grocery,3,66,Credit Card,198
+SHOP467,12-02-2026,Coffee 100g,Food & Beverage,2,109,Debit Card,218
+SHOP468,18-01-2026,Soap,Personal Care,8,43,UPI,344
+SHOP469,12-02-2026,Sugar 1kg,Grocery,2,45,Cash,90
+SHOP470,24-01-2026,Flour 5kg,Grocery,5,209,Credit Card,1045
+SHOP471,14-03-2026,Flour 5kg,Grocery,5,201,Cash,1005
+SHOP472,07-03-2026,Soft Drink 1L,Food & Beverage,7,67,Debit Card,469
+SHOP473,24-01-2026,Noodles Pack,Food & Beverage,2,21,Cash,42
+SHOP474,01-01-2026,Toothpaste,Personal Care,4,85,Debit Card,340
+SHOP475,04-02-2026,Potato 1kg,Grocery,8,31,Debit Card,248
+SHOP476,03-02-2026,Cooking Oil 1L,Grocery,1,168,Debit Card,168
+SHOP477,27-03-2026,Juice 1L,Food & Beverage,1,85,Credit Card,85
+SHOP478,21-02-2026,Soap,Personal Care,3,37,Debit Card,111
+SHOP479,17-02-2026,Juice 1L,Food & Beverage,5,77,Cash,385
+SHOP480,20-01-2026,Rice 5kg,Grocery,8,338,UPI,2704
+SHOP481,23-02-2026,Flour 5kg,Grocery,6,218,UPI,1308
+SHOP482,01-02-2026,Salt 1kg,Grocery,4,26,Credit Card,104
+SHOP483,10-01-2026,Shampoo 180ml,Personal Care,6,149,Credit Card,894
+SHOP484,15-03-2026,Bread,Food & Beverage,4,38,Cash,152
+SHOP485,15-01-2026,Soft Drink 1L,Food & Beverage,8,65,Cash,520
+SHOP486,12-01-2026,Juice 1L,Food & Beverage,8,107,UPI,856
+SHOP487,17-01-2026,Spices Pack,Grocery,8,38,UPI,304
+SHOP488,13-03-2026,Soap,Personal Care,1,42,UPI,42
+SHOP489,03-01-2026,Biscuits Family Pack,Food & Beverage,5,60,UPI,300
+SHOP490,28-01-2026,Sugar 1kg,Grocery,1,55,Credit Card,55
+SHOP491,31-03-2026,Bread,Food & Beverage,6,36,Credit Card,216
+SHOP492,02-03-2026,Detergent 1kg,Personal Care,2,111,Credit Card,222
+SHOP493,18-01-2026,Cooking Oil 1L,Grocery,3,163,UPI,489
+SHOP494,18-02-2026,Lentils 1kg,Grocery,8,117,UPI,936
+SHOP495,25-03-2026,Noodles Pack,Food & Beverage,3,25,Debit Card,75
+SHOP496,09-03-2026,Eggs 12 pcs,Food & Beverage,7,90,Cash,630
+SHOP497,03-01-2026,Flour 5kg,Grocery,1,194,Debit Card,194
+SHOP498,10-03-2026,Soap,Personal Care,7,43,UPI,301
+SHOP499,28-02-2026,Dishwash Liquid,Personal Care,4,69,Debit Card,276
+SHOP500,15-01-2026,Biscuits,Food & Beverage,4,24,Credit Card,96
+SHOP501,20-03-2026,Spices Pack,Grocery,7,77,Credit Card,539
+SHOP502,13-01-2026,Rice 5kg,Grocery,2,343,Credit Card,686
+SHOP503,01-02-2026,Soap,Personal Care,1,42,Credit Card,42
+SHOP504,11-03-2026,Potato 1kg,Grocery,4,35,Cash,140
+SHOP505,18-01-2026,Salt 1kg,Grocery,1,30,Debit Card,30
+SHOP506,15-03-2026,Rice 5kg,Grocery,6,366,Debit Card,2196
+SHOP507,26-03-2026,Rice 5kg,Grocery,3,349,Cash,1047
+SHOP508,08-01-2026,Tea 250g,Grocery,5,124,Cash,620
+SHOP509,13-03-2026,Bathing Bar Pack,Personal Care,7,71,UPI,497
+SHOP510,09-03-2026,Bread,Food & Beverage,7,35,Debit Card,245
+SHOP511,20-01-2026,Juice 1L,Food & Beverage,7,96,Debit Card,672
+SHOP512,31-01-2026,Potato 1kg,Grocery,8,30,Cash,240
+SHOP513,01-03-2026,Cooking Oil 1L,Grocery,3,172,Credit Card,516
+SHOP514,13-03-2026,Detergent 1kg,Personal Care,7,123,Cash,861
+SHOP515,27-01-2026,Potato 1kg,Grocery,5,31,Debit Card,155
+SHOP516,17-02-2026,Bathing Bar Pack,Personal Care,8,52,Credit Card,416
+SHOP517,04-02-2026,Detergent 1kg,Personal Care,1,116,UPI,116
+SHOP518,10-01-2026,Biscuits Family Pack,Food & Beverage,1,54,Cash,54
+SHOP519,03-03-2026,Spices Pack,Grocery,4,83,Cash,332
+SHOP520,08-02-2026,Tissue Pack,Personal Care,6,59,Credit Card,354
+SHOP521,03-03-2026,Milk 1L,Food & Beverage,2,61,Cash,122
+SHOP522,20-02-2026,Juice 1L,Food & Beverage,4,108,Cash,432
+SHOP523,18-02-2026,Detergent 1kg,Personal Care,5,120,UPI,600
+SHOP524,09-02-2026,Detergent 1kg,Personal Care,6,130,Debit Card,780
+SHOP525,01-03-2026,Lentils 1kg,Grocery,8,121,Credit Card,968
+SHOP526,10-02-2026,Spices Pack,Grocery,8,81,Cash,648
+SHOP527,06-01-2026,Lentils 1kg,Grocery,7,115,Cash,805
+SHOP528,03-02-2026,Flour 5kg,Grocery,1,189,UPI,189
+SHOP529,12-02-2026,Cooking Oil 1L,Grocery,4,154,Cash,616
+SHOP530,05-03-2026,Potato 1kg,Grocery,4,37,Debit Card,148
+SHOP531,24-03-2026,Sugar 1kg,Grocery,8,54,UPI,432
+SHOP532,22-01-2026,Soap,Personal Care,6,35,Cash,210
+SHOP533,24-01-2026,Flour 5kg,Grocery,8,214,Credit Card,1712
+SHOP534,27-03-2026,Shampoo 180ml,Personal Care,2,136,Credit Card,272
+SHOP535,18-01-2026,Salt 1kg,Grocery,7,18,Cash,126
+SHOP536,28-01-2026,Noodles Pack,Food & Beverage,1,17,UPI,17
+SHOP537,26-03-2026,Lentils 1kg,Grocery,8,106,UPI,848
+SHOP538,02-01-2026,Coffee 100g,Food & Beverage,7,105,Credit Card,735
+SHOP539,03-01-2026,Shampoo 180ml,Personal Care,5,143,UPI,715
+SHOP540,13-01-2026,Spices Pack,Grocery,2,46,Cash,92
+SHOP541,15-02-2026,Rice 5kg,Grocery,5,342,Debit Card,1710
+SHOP542,17-02-2026,Spices Pack,Grocery,2,60,UPI,120
+SHOP543,31-03-2026,Soap,Personal Care,4,42,Cash,168
+SHOP544,25-03-2026,Cooking Oil 1L,Grocery,2,171,Credit Card,342
+SHOP545,18-02-2026,Noodles Pack,Food & Beverage,7,21,UPI,147
+SHOP546,31-03-2026,Bread,Food & Beverage,1,40,Cash,40
+SHOP547,24-03-2026,Noodles Pack,Food & Beverage,7,22,Debit Card,154
+SHOP548,30-01-2026,Handwash 250ml,Personal Care,1,68,Cash,68
+SHOP549,04-02-2026,Tissue Pack,Personal Care,8,52,Credit Card,416
+SHOP550,11-03-2026,Noodles Pack,Food & Beverage,5,25,Credit Card,125
+SHOP551,27-01-2026,Soft Drink 1L,Food & Beverage,1,65,Cash,65
+SHOP552,10-01-2026,Salt 1kg,Grocery,7,29,Debit Card,203
+SHOP553,28-03-2026,Soft Drink 1L,Food & Beverage,7,62,Debit Card,434
+SHOP554,30-03-2026,Potato 1kg,Grocery,3,40,Credit Card,120
+SHOP555,13-01-2026,Shampoo 180ml,Personal Care,1,146,UPI,146
+SHOP556,19-03-2026,Rice 5kg,Grocery,6,334,UPI,2004
+SHOP557,23-03-2026,Salt 1kg,Grocery,1,23,Debit Card,23
+SHOP558,30-01-2026,Spices Pack,Grocery,8,63,Debit Card,504
+SHOP559,24-01-2026,Detergent 1kg,Personal Care,7,122,UPI,854
+SHOP560,01-02-2026,Noodles Pack,Food & Beverage,5,24,Credit Card,120
+SHOP561,18-02-2026,Noodles Pack,Food & Beverage,3,19,Cash,57
+SHOP562,16-02-2026,Flour 5kg,Grocery,6,204,Credit Card,1224
+SHOP563,26-02-2026,Noodles Pack,Food & Beverage,5,15,Debit Card,75
+SHOP564,17-01-2026,Salt 1kg,Grocery,2,22,Credit Card,44
+SHOP565,13-03-2026,Soft Drink 1L,Food & Beverage,8,68,UPI,544
+SHOP566,15-02-2026,Eggs 12 pcs,Food & Beverage,2,85,Credit Card,170
+SHOP567,19-02-2026,Face Wash 100g,Personal Care,6,128,Credit Card,768
+SHOP568,11-01-2026,Cooking Oil 1L,Grocery,7,163,Cash,1141
+SHOP569,29-03-2026,Handwash 250ml,Personal Care,3,81,UPI,243
+SHOP570,08-02-2026,Soft Drink 1L,Food & Beverage,5,59,Debit Card,295
+SHOP571,22-01-2026,Toothpaste,Personal Care,2,79,UPI,158
+SHOP572,03-03-2026,Sugar 1kg,Grocery,5,48,Credit Card,240
+SHOP573,22-03-2026,Lentils 1kg,Grocery,4,113,UPI,452
+SHOP574,28-02-2026,Face Wash 100g,Personal Care,4,129,Credit Card,516
+SHOP575,20-02-2026,Biscuits,Food & Beverage,1,24,Debit Card,24
+SHOP576,12-02-2026,Dishwash Liquid,Personal Care,7,94,UPI,658
+SHOP577,08-02-2026,Onion 1kg,Grocery,3,48,Debit Card,144
+SHOP578,03-03-2026,Face Wash 100g,Personal Care,4,134,Debit Card,536
+SHOP579,07-02-2026,Soft Drink 1L,Food & Beverage,6,67,UPI,402
+SHOP580,11-02-2026,Handwash 250ml,Personal Care,4,90,UPI,360
+SHOP581,16-02-2026,Sugar 1kg,Grocery,7,55,Credit Card,385
+SHOP582,29-03-2026,Handwash 250ml,Personal Care,3,71,Credit Card,213
+SHOP583,26-02-2026,Flour 5kg,Grocery,4,209,Debit Card,836
+SHOP584,22-02-2026,Dishwash Liquid,Personal Care,2,99,UPI,198
+SHOP585,31-01-2026,Biscuits,Food & Beverage,5,30,Debit Card,150
+SHOP586,18-02-2026,Biscuits Family Pack,Food & Beverage,7,39,Credit Card,273
+SHOP587,16-03-2026,Soap,Personal Care,8,42,UPI,336
+SHOP588,11-03-2026,Detergent 1kg,Personal Care,7,126,Credit Card,882
+SHOP589,14-01-2026,Spices Pack,Grocery,2,58,Cash,116
+SHOP590,22-01-2026,Biscuits Family Pack,Food & Beverage,6,56,Credit Card,336
+SHOP591,12-02-2026,Handwash 250ml,Personal Care,7,85,UPI,595
+SHOP592,03-02-2026,Eggs 12 pcs,Food & Beverage,2,85,Cash,170
+SHOP593,27-02-2026,Shampoo 180ml,Personal Care,4,151,Debit Card,604
+SHOP594,14-02-2026,Potato 1kg,Grocery,3,35,Credit Card,105
+SHOP595,23-02-2026,Toothpaste,Personal Care,5,78,Credit Card,390
+SHOP596,09-02-2026,Eggs 12 pcs,Food & Beverage,6,89,Debit Card,534
+SHOP597,08-03-2026,Soap,Personal Care,4,45,UPI,180
+SHOP598,26-02-2026,Lentils 1kg,Grocery,2,120,UPI,240
+SHOP599,06-01-2026,Onion 1kg,Grocery,5,37,Credit Card,185
+SHOP600,28-03-2026,Coffee 100g,Food & Beverage,2,110,Cash,220
+SHOP601,12-03-2026,Flour 5kg,Grocery,3,195,Cash,585
+SHOP602,30-01-2026,Onion 1kg,Grocery,8,48,UPI,384
+SHOP603,23-03-2026,Bathing Bar Pack,Personal Care,3,55,UPI,165
+SHOP604,27-02-2026,Potato 1kg,Grocery,4,28,UPI,112
+SHOP605,27-01-2026,Potato 1kg,Grocery,4,28,Debit Card,112
+SHOP606,15-03-2026,Salt 1kg,Grocery,2,29,Credit Card,58
+SHOP607,16-02-2026,Spices Pack,Grocery,3,90,Debit Card,270
+SHOP608,03-02-2026,Milk 1L,Food & Beverage,2,65,UPI,130
+SHOP609,18-03-2026,Shampoo 180ml,Personal Care,6,155,UPI,930
+SHOP610,14-02-2026,Face Wash 100g,Personal Care,2,115,Debit Card,230
+SHOP611,28-03-2026,Tissue Pack,Personal Care,3,44,Debit Card,132
+SHOP612,28-03-2026,Face Wash 100g,Personal Care,2,127,Cash,254
+SHOP613,09-02-2026,Onion 1kg,Grocery,4,38,Credit Card,152
+SHOP614,07-03-2026,Soft Drink 1L,Food & Beverage,3,66,UPI,198
+SHOP615,15-03-2026,Tea 250g,Grocery,3,134,UPI,402
+SHOP616,23-03-2026,Tea 250g,Grocery,8,120,Cash,960
+SHOP617,06-02-2026,Detergent 1kg,Personal Care,8,115,Cash,920
+SHOP618,21-03-2026,Soft Drink 1L,Food & Beverage,8,65,Credit Card,520
+SHOP619,04-03-2026,Tissue Pack,Personal Care,1,41,Cash,41
+SHOP620,22-02-2026,Milk 1L,Food & Beverage,8,64,UPI,512
+SHOP621,22-01-2026,Tea 250g,Grocery,8,129,Credit Card,1032
+SHOP622,07-02-2026,Handwash 250ml,Personal Care,4,65,Credit Card,260
+SHOP623,22-01-2026,Sugar 1kg,Grocery,5,45,UPI,225
+SHOP624,12-03-2026,Handwash 250ml,Personal Care,8,88,Credit Card,704
+SHOP625,11-03-2026,Handwash 250ml,Personal Care,5,68,Debit Card,340
+SHOP626,11-03-2026,Detergent 1kg,Personal Care,8,111,Cash,888
+SHOP627,08-02-2026,Tea 250g,Grocery,4,118,Credit Card,472
+SHOP628,12-01-2026,Soap,Personal Care,6,37,UPI,222
+SHOP629,27-01-2026,Tissue Pack,Personal Care,4,33,Debit Card,132
+SHOP630,22-01-2026,Tissue Pack,Personal Care,7,52,Cash,364
+SHOP631,08-01-2026,Spices Pack,Grocery,4,48,Debit Card,192
+SHOP632,11-02-2026,Detergent 1kg,Personal Care,3,118,Debit Card,354
+SHOP633,07-03-2026,Cooking Oil 1L,Grocery,5,168,Credit Card,840
+SHOP634,05-02-2026,Biscuits,Food & Beverage,1,26,Cash,26
+SHOP635,19-01-2026,Juice 1L,Food & Beverage,4,78,Debit Card,312
+SHOP636,04-03-2026,Dishwash Liquid,Personal Care,7,70,Cash,490
+SHOP637,22-03-2026,Handwash 250ml,Personal Care,5,85,UPI,425
+SHOP638,23-03-2026,Potato 1kg,Grocery,2,35,Credit Card,70
+SHOP639,30-03-2026,Potato 1kg,Grocery,5,36,Debit Card,180
+SHOP640,16-03-2026,Soap,Personal Care,6,40,Credit Card,240
+SHOP641,28-02-2026,Tissue Pack,Personal Care,2,54,Debit Card,108
+SHOP642,28-01-2026,Tissue Pack,Personal Care,7,32,UPI,224
+SHOP643,04-02-2026,Dishwash Liquid,Personal Care,8,68,Debit Card,544
+SHOP644,12-03-2026,Dishwash Liquid,Personal Care,6,73,Cash,438
+SHOP645,29-03-2026,Handwash 250ml,Personal Care,6,80,Credit Card,480
+SHOP646,03-01-2026,Bread,Food & Beverage,8,31,Credit Card,248
+SHOP647,28-02-2026,Tissue Pack,Personal Care,8,35,Credit Card,280
+SHOP648,25-03-2026,Tea 250g,Grocery,3,121,Debit Card,363
+SHOP649,25-03-2026,Soft Drink 1L,Food & Beverage,2,63,Debit Card,126
+SHOP650,27-03-2026,Sugar 1kg,Grocery,6,43,Cash,258
+SHOP651,31-03-2026,Bread,Food & Beverage,5,36,Cash,180
+SHOP652,13-01-2026,Tea 250g,Grocery,2,135,Credit Card,270
+SHOP653,17-01-2026,Milk 1L,Food & Beverage,2,65,Cash,130
+SHOP654,02-01-2026,Shampoo 180ml,Personal Care,1,149,Debit Card,149
+SHOP655,30-03-2026,Dishwash Liquid,Personal Care,7,62,Cash,434
+SHOP656,19-02-2026,Toothpaste,Personal Care,4,77,Credit Card,308
+SHOP657,14-01-2026,Flour 5kg,Grocery,2,231,Debit Card,462
+SHOP658,18-02-2026,Lentils 1kg,Grocery,3,114,Cash,342
+SHOP659,09-01-2026,Bathing Bar Pack,Personal Care,3,71,Credit Card,213
+SHOP660,26-02-2026,Face Wash 100g,Personal Care,3,131,Debit Card,393
+SHOP661,22-02-2026,Flour 5kg,Grocery,3,193,UPI,579
+SHOP662,13-01-2026,Tissue Pack,Personal Care,2,36,Cash,72
+SHOP663,14-02-2026,Salt 1kg,Grocery,7,19,UPI,133
+SHOP664,05-02-2026,Onion 1kg,Grocery,4,39,Credit Card,156
+SHOP665,30-03-2026,Rice 5kg,Grocery,5,365,Credit Card,1825
+SHOP666,27-01-2026,Tissue Pack,Personal Care,5,57,Cash,285
+SHOP667,24-03-2026,Flour 5kg,Grocery,5,205,Credit Card,1025
+SHOP668,05-03-2026,Spices Pack,Grocery,4,85,UPI,340
+SHOP669,23-03-2026,Eggs 12 pcs,Food & Beverage,8,92,Credit Card,736
+SHOP670,10-02-2026,Shampoo 180ml,Personal Care,6,135,Cash,810
+SHOP671,16-02-2026,Potato 1kg,Grocery,7,37,Cash,259
+SHOP672,03-01-2026,Salt 1kg,Grocery,2,25,Credit Card,50
+SHOP673,06-01-2026,Coffee 100g,Food & Beverage,4,109,Credit Card,436
+SHOP674,22-03-2026,Spices Pack,Grocery,5,60,UPI,300
+SHOP675,23-03-2026,Tea 250g,Grocery,2,127,Cash,254
+SHOP676,11-01-2026,Sugar 1kg,Grocery,5,43,Cash,215
+SHOP677,20-02-2026,Spices Pack,Grocery,6,44,Credit Card,264
+SHOP678,31-01-2026,Cooking Oil 1L,Grocery,7,172,Credit Card,1204
+SHOP679,15-01-2026,Rice 5kg,Grocery,7,335,UPI,2345
+SHOP680,09-02-2026,Face Wash 100g,Personal Care,1,128,Cash,128
+SHOP681,31-03-2026,Eggs 12 pcs,Food & Beverage,3,85,Credit Card,255
+SHOP682,08-03-2026,Soft Drink 1L,Food & Beverage,6,70,Debit Card,420
+SHOP683,04-02-2026,Soft Drink 1L,Food & Beverage,3,66,Credit Card,198
+SHOP684,24-02-2026,Salt 1kg,Grocery,6,18,Debit Card,108
+SHOP685,15-03-2026,Shampoo 180ml,Personal Care,5,137,Credit Card,685
+SHOP686,08-01-2026,Toothpaste,Personal Care,6,89,UPI,534
+SHOP687,17-02-2026,Tissue Pack,Personal Care,3,48,Cash,144
+SHOP688,15-03-2026,Sugar 1kg,Grocery,2,54,Credit Card,108
+SHOP689,06-01-2026,Rice 5kg,Grocery,1,362,Credit Card,362
+SHOP690,16-02-2026,Rice 5kg,Grocery,8,332,UPI,2656
+SHOP691,12-03-2026,Biscuits,Food & Beverage,1,22,UPI,22
+SHOP692,23-02-2026,Rice 5kg,Grocery,4,350,Debit Card,1400
+SHOP693,15-03-2026,Sugar 1kg,Grocery,2,55,Debit Card,110
+SHOP694,29-01-2026,Eggs 12 pcs,Food & Beverage,3,86,Credit Card,258
+SHOP695,06-02-2026,Potato 1kg,Grocery,8,29,Debit Card,232
+SHOP696,02-01-2026,Onion 1kg,Grocery,8,37,Debit Card,296
+SHOP697,21-03-2026,Milk 1L,Food & Beverage,5,62,Cash,310
+SHOP698,26-01-2026,Soap,Personal Care,8,38,Cash,304
+SHOP699,04-01-2026,Biscuits,Food & Beverage,7,20,Cash,140
+SHOP700,12-02-2026,Detergent 1kg,Personal Care,1,121,Credit Card,121
+SHOP701,09-02-2026,Salt 1kg,Grocery,7,28,Credit Card,196
+SHOP702,23-02-2026,Milk 1L,Food & Beverage,4,66,UPI,264
+SHOP703,12-01-2026,Bread,Food & Beverage,5,32,Credit Card,160
+SHOP704,31-03-2026,Rice 5kg,Grocery,7,363,Debit Card,2541
+SHOP705,16-03-2026,Soap,Personal Care,2,44,Credit Card,88
+SHOP706,10-01-2026,Shampoo 180ml,Personal Care,7,139,Credit Card,973
+SHOP707,07-02-2026,Tea 250g,Grocery,4,119,Debit Card,476
+SHOP708,31-03-2026,Tissue Pack,Personal Care,7,40,Debit Card,280
+SHOP709,30-01-2026,Onion 1kg,Grocery,5,49,Credit Card,245
+SHOP710,20-01-2026,Milk 1L,Food & Beverage,2,60,Credit Card,120
+SHOP711,10-02-2026,Soft Drink 1L,Food & Beverage,8,69,UPI,552
+SHOP712,27-02-2026,Eggs 12 pcs,Food & Beverage,4,96,Debit Card,384
+SHOP713,12-01-2026,Soap,Personal Care,2,37,Cash,74
+SHOP714,31-03-2026,Spices Pack,Grocery,5,78,Credit Card,390
+SHOP715,12-01-2026,Milk 1L,Food & Beverage,3,63,Cash,189
+SHOP716,28-03-2026,Lentils 1kg,Grocery,1,117,Debit Card,117
+SHOP717,04-01-2026,Sugar 1kg,Grocery,3,55,UPI,165
+SHOP718,13-01-2026,Tissue Pack,Personal Care,4,44,UPI,176
+SHOP719,02-01-2026,Eggs 12 pcs,Food & Beverage,2,89,Credit Card,178
+SHOP720,26-01-2026,Dishwash Liquid,Personal Care,3,69,UPI,207
+SHOP721,16-03-2026,Lentils 1kg,Grocery,2,125,Debit Card,250
+SHOP722,09-01-2026,Dishwash Liquid,Personal Care,1,59,Cash,59
+SHOP723,12-01-2026,Bathing Bar Pack,Personal Care,3,64,Debit Card,192
+SHOP724,07-01-2026,Eggs 12 pcs,Food & Beverage,8,86,Cash,688
+SHOP725,05-03-2026,Handwash 250ml,Personal Care,7,78,Credit Card,546
+SHOP726,23-01-2026,Potato 1kg,Grocery,7,38,Debit Card,266
+SHOP727,05-02-2026,Milk 1L,Food & Beverage,5,60,UPI,300
+SHOP728,24-03-2026,Biscuits,Food & Beverage,4,20,Debit Card,80
+SHOP729,08-01-2026,Toothpaste,Personal Care,8,88,Credit Card,704
+SHOP730,23-02-2026,Sugar 1kg,Grocery,3,48,Cash,144
+SHOP731,22-03-2026,Bathing Bar Pack,Personal Care,4,78,Credit Card,312
+SHOP732,03-03-2026,Potato 1kg,Grocery,6,40,UPI,240
+SHOP733,19-02-2026,Lentils 1kg,Grocery,6,123,Debit Card,738
+SHOP734,18-03-2026,Soft Drink 1L,Food & Beverage,6,55,Cash,330
+SHOP735,02-03-2026,Coffee 100g,Food & Beverage,1,109,Debit Card,109
+SHOP736,21-01-2026,Salt 1kg,Grocery,4,27,Credit Card,108
+SHOP737,10-03-2026,Rice 5kg,Grocery,5,345,Credit Card,1725
+SHOP738,15-02-2026,Salt 1kg,Grocery,7,21,Cash,147
+SHOP739,31-03-2026,Soft Drink 1L,Food & Beverage,6,62,Debit Card,372
+SHOP740,14-03-2026,Handwash 250ml,Personal Care,6,65,Cash,390
+SHOP741,11-03-2026,Handwash 250ml,Personal Care,8,71,Debit Card,568
+SHOP742,12-01-2026,Soft Drink 1L,Food & Beverage,1,70,Credit Card,70
+SHOP743,03-01-2026,Rice 5kg,Grocery,4,368,UPI,1472
+SHOP744,17-01-2026,Coffee 100g,Food & Beverage,4,110,Debit Card,440
+SHOP745,08-01-2026,Juice 1L,Food & Beverage,6,81,Credit Card,486
+SHOP746,15-01-2026,Biscuits,Food & Beverage,3,29,Debit Card,87
+SHOP747,17-03-2026,Noodles Pack,Food & Beverage,7,20,Credit Card,140
+SHOP748,18-01-2026,Onion 1kg,Grocery,6,44,Cash,264
+SHOP749,23-03-2026,Flour 5kg,Grocery,7,240,UPI,1680
+SHOP750,13-03-2026,Bathing Bar Pack,Personal Care,3,60,Debit Card,180
+SHOP751,18-02-2026,Rice 5kg,Grocery,3,367,Debit Card,1101
+SHOP752,17-01-2026,Flour 5kg,Grocery,5,224,Cash,1120
+SHOP753,14-03-2026,Flour 5kg,Grocery,7,180,Credit Card,1260
+SHOP754,23-03-2026,Soft Drink 1L,Food & Beverage,4,65,Credit Card,260
+SHOP755,10-01-2026,Toothpaste,Personal Care,6,79,Cash,474
+SHOP756,23-03-2026,Lentils 1kg,Grocery,3,115,Credit Card,345
+SHOP757,27-02-2026,Dishwash Liquid,Personal Care,6,100,Credit Card,600
+SHOP758,30-03-2026,Sugar 1kg,Grocery,4,45,Credit Card,180
+SHOP759,01-01-2026,Lentils 1kg,Grocery,2,113,Credit Card,226
+SHOP760,22-01-2026,Potato 1kg,Grocery,7,35,UPI,245
+SHOP761,11-03-2026,Toothpaste,Personal Care,6,87,UPI,522
+SHOP762,21-01-2026,Eggs 12 pcs,Food & Beverage,4,100,UPI,400
+SHOP763,03-01-2026,Noodles Pack,Food & Beverage,5,15,Debit Card,75
+SHOP764,13-02-2026,Sugar 1kg,Grocery,2,43,Cash,86
+SHOP765,12-03-2026,Potato 1kg,Grocery,2,30,Credit Card,60
+SHOP766,25-02-2026,Onion 1kg,Grocery,1,50,Cash,50
+SHOP767,07-01-2026,Face Wash 100g,Personal Care,3,117,Credit Card,351
+SHOP768,22-02-2026,Onion 1kg,Grocery,4,41,Debit Card,164
+SHOP769,31-01-2026,Biscuits Family Pack,Food & Beverage,5,44,Credit Card,220
+SHOP770,20-01-2026,Bread,Food & Beverage,8,36,Credit Card,288
+SHOP771,12-01-2026,Lentils 1kg,Grocery,7,105,Debit Card,735
+SHOP772,26-01-2026,Dishwash Liquid,Personal Care,8,97,Credit Card,776
+SHOP773,23-03-2026,Coffee 100g,Food & Beverage,3,108,Debit Card,324
+SHOP774,09-02-2026,Noodles Pack,Food & Beverage,2,22,UPI,44
+SHOP775,12-01-2026,Toothpaste,Personal Care,5,90,UPI,450
+SHOP776,17-02-2026,Soft Drink 1L,Food & Beverage,7,66,Cash,462
+SHOP777,26-02-2026,Soap,Personal Care,5,33,UPI,165
+SHOP778,14-03-2026,Sugar 1kg,Grocery,5,45,Credit Card,225
+SHOP779,11-01-2026,Biscuits,Food & Beverage,2,30,Debit Card,60
+SHOP780,17-03-2026,Spices Pack,Grocery,7,69,Cash,483
+SHOP781,08-03-2026,Detergent 1kg,Personal Care,7,111,UPI,777
+SHOP782,02-03-2026,Detergent 1kg,Personal Care,4,125,Debit Card,500
+SHOP783,06-03-2026,Noodles Pack,Food & Beverage,1,21,Cash,21
+SHOP784,22-01-2026,Eggs 12 pcs,Food & Beverage,3,99,Cash,297
+SHOP785,06-01-2026,Spices Pack,Grocery,3,47,UPI,141
+SHOP786,26-01-2026,Noodles Pack,Food & Beverage,7,25,Cash,175
+SHOP787,10-02-2026,Dishwash Liquid,Personal Care,5,93,Credit Card,465
+SHOP788,12-03-2026,Noodles Pack,Food & Beverage,7,21,Debit Card,147
+SHOP789,02-01-2026,Tissue Pack,Personal Care,8,38,UPI,304
+SHOP790,19-01-2026,Eggs 12 pcs,Food & Beverage,3,98,Credit Card,294
+SHOP791,10-03-2026,Eggs 12 pcs,Food & Beverage,5,88,Debit Card,440
+SHOP792,25-03-2026,Tea 250g,Grocery,7,123,UPI,861
+SHOP793,05-01-2026,Handwash 250ml,Personal Care,8,84,Cash,672
+SHOP794,21-03-2026,Sugar 1kg,Grocery,3,48,UPI,144
+SHOP795,30-03-2026,Bread,Food & Beverage,6,36,Cash,216
+SHOP796,17-02-2026,Bread,Food & Beverage,5,37,Credit Card,185
+SHOP797,05-02-2026,Onion 1kg,Grocery,5,44,UPI,220
+SHOP798,30-01-2026,Tissue Pack,Personal Care,2,52,Cash,104
+SHOP799,11-02-2026,Cooking Oil 1L,Grocery,8,173,Debit Card,1384
+SHOP800,25-01-2026,Flour 5kg,Grocery,2,206,UPI,412
+SHOP801,08-03-2026,Milk 1L,Food & Beverage,8,64,Debit Card,512
+SHOP802,09-01-2026,Dishwash Liquid,Personal Care,3,58,Debit Card,174
+SHOP803,18-01-2026,Juice 1L,Food & Beverage,7,102,Credit Card,714
+SHOP804,08-01-2026,Soft Drink 1L,Food & Beverage,4,61,Cash,244
+SHOP805,16-02-2026,Bread,Food & Beverage,1,37,Cash,37
+SHOP806,06-03-2026,Sugar 1kg,Grocery,8,47,UPI,376
+SHOP807,29-03-2026,Bathing Bar Pack,Personal Care,2,79,Credit Card,158
+SHOP808,18-03-2026,Rice 5kg,Grocery,8,353,UPI,2824
+SHOP809,14-02-2026,Soft Drink 1L,Food & Beverage,6,70,Cash,420
+SHOP810,06-02-2026,Dishwash Liquid,Personal Care,2,71,Credit Card,142
+SHOP811,15-03-2026,Potato 1kg,Grocery,3,28,Cash,84
+SHOP812,28-03-2026,Tissue Pack,Personal Care,4,37,Cash,148
+SHOP813,07-03-2026,Sugar 1kg,Grocery,7,52,Credit Card,364
+SHOP814,02-03-2026,Tissue Pack,Personal Care,1,54,Cash,54
+SHOP815,29-01-2026,Bathing Bar Pack,Personal Care,1,55,Debit Card,55
+SHOP816,24-02-2026,Face Wash 100g,Personal Care,5,109,UPI,545
+SHOP817,02-02-2026,Tissue Pack,Personal Care,8,41,Cash,328
+SHOP818,16-03-2026,Soap,Personal Care,7,37,Credit Card,259
+SHOP819,13-03-2026,Coffee 100g,Food & Beverage,6,113,Debit Card,678
+SHOP820,03-03-2026,Cooking Oil 1L,Grocery,2,171,Credit Card,342
+SHOP821,05-02-2026,Onion 1kg,Grocery,6,43,Debit Card,258
+SHOP822,25-01-2026,Bathing Bar Pack,Personal Care,5,72,Cash,360
+SHOP823,18-03-2026,Shampoo 180ml,Personal Care,1,142,UPI,142
+SHOP824,04-01-2026,Biscuits Family Pack,Food & Beverage,3,45,UPI,135
+SHOP825,21-02-2026,Cooking Oil 1L,Grocery,7,158,UPI,1106
+SHOP826,13-02-2026,Flour 5kg,Grocery,4,182,Cash,728
+SHOP827,27-03-2026,Biscuits Family Pack,Food & Beverage,8,52,Debit Card,416
+SHOP828,26-03-2026,Shampoo 180ml,Personal Care,3,144,Cash,432
+SHOP829,17-01-2026,Cooking Oil 1L,Grocery,8,153,Debit Card,1224
+SHOP830,29-03-2026,Flour 5kg,Grocery,3,231,Debit Card,693
+SHOP831,15-02-2026,Bathing Bar Pack,Personal Care,4,52,Cash,208
+SHOP832,23-02-2026,Flour 5kg,Grocery,5,235,Debit Card,1175
+SHOP833,01-03-2026,Lentils 1kg,Grocery,5,113,Credit Card,565
+SHOP834,02-03-2026,Toothpaste,Personal Care,2,76,Cash,152
+SHOP835,09-03-2026,Shampoo 180ml,Personal Care,7,138,Debit Card,966
+SHOP836,18-01-2026,Tea 250g,Grocery,3,116,Cash,348
+SHOP837,19-01-2026,Onion 1kg,Grocery,8,48,Debit Card,384
+SHOP838,11-01-2026,Tissue Pack,Personal Care,3,52,UPI,156
+SHOP839,23-03-2026,Onion 1kg,Grocery,6,40,Credit Card,240
+SHOP840,27-01-2026,Coffee 100g,Food & Beverage,5,112,Cash,560
+SHOP841,04-03-2026,Handwash 250ml,Personal Care,3,89,Credit Card,267
+SHOP842,23-03-2026,Biscuits,Food & Beverage,7,29,UPI,203
+SHOP843,19-02-2026,Potato 1kg,Grocery,8,34,Credit Card,272
+SHOP844,17-02-2026,Bread,Food & Beverage,4,38,Credit Card,152
+SHOP845,28-03-2026,Onion 1kg,Grocery,1,41,Credit Card,41
+SHOP846,29-01-2026,Bathing Bar Pack,Personal Care,4,73,Debit Card,292
+SHOP847,19-02-2026,Cooking Oil 1L,Grocery,2,154,Debit Card,308
+SHOP848,08-02-2026,Soft Drink 1L,Food & Beverage,1,57,Debit Card,57
+SHOP849,25-02-2026,Soap,Personal Care,6,44,Cash,264
+SHOP850,25-01-2026,Onion 1kg,Grocery,6,50,Cash,300
+SHOP851,30-01-2026,Spices Pack,Grocery,1,60,Cash,60
+SHOP852,03-01-2026,Flour 5kg,Grocery,4,188,Cash,752
+SHOP853,18-02-2026,Eggs 12 pcs,Food & Beverage,1,96,Debit Card,96
+SHOP854,18-03-2026,Salt 1kg,Grocery,1,26,Credit Card,26
+SHOP855,07-01-2026,Biscuits Family Pack,Food & Beverage,1,38,Credit Card,38
+SHOP856,16-01-2026,Tea 250g,Grocery,7,129,Debit Card,903
+SHOP857,30-03-2026,Toothpaste,Personal Care,4,79,Credit Card,316
+SHOP858,26-03-2026,Cooking Oil 1L,Grocery,2,163,Debit Card,326
+SHOP859,23-02-2026,Face Wash 100g,Personal Care,3,128,Credit Card,384
+SHOP860,06-02-2026,Shampoo 180ml,Personal Care,2,154,Credit Card,308
+SHOP861,26-01-2026,Spices Pack,Grocery,8,41,Cash,328
+SHOP862,15-02-2026,Salt 1kg,Grocery,4,22,UPI,88
+SHOP863,12-03-2026,Cooking Oil 1L,Grocery,1,155,UPI,155
+SHOP864,12-02-2026,Milk 1L,Food & Beverage,8,69,Cash,552
+SHOP865,15-01-2026,Coffee 100g,Food & Beverage,2,105,UPI,210
+SHOP866,13-01-2026,Biscuits,Food & Beverage,2,21,Debit Card,42
+SHOP867,07-02-2026,Bathing Bar Pack,Personal Care,8,57,Debit Card,456
+SHOP868,23-01-2026,Soap,Personal Care,2,33,Credit Card,66
+SHOP869,28-03-2026,Tissue Pack,Personal Care,6,39,Debit Card,234
+SHOP870,06-01-2026,Tea 250g,Grocery,2,118,Credit Card,236
+SHOP871,12-02-2026,Tissue Pack,Personal Care,3,34,Debit Card,102
+SHOP872,12-01-2026,Soap,Personal Care,5,42,Debit Card,210
+SHOP873,15-01-2026,Dishwash Liquid,Personal Care,3,76,UPI,228
+SHOP874,19-02-2026,Potato 1kg,Grocery,5,35,UPI,175
+SHOP875,15-01-2026,Spices Pack,Grocery,3,61,Cash,183
+SHOP876,14-01-2026,Juice 1L,Food & Beverage,3,73,UPI,219
+SHOP877,24-01-2026,Handwash 250ml,Personal Care,8,80,UPI,640
+SHOP878,29-03-2026,Salt 1kg,Grocery,1,23,Cash,23
+SHOP879,22-02-2026,Toothpaste,Personal Care,2,90,UPI,180
+SHOP880,25-03-2026,Bread,Food & Beverage,5,31,Debit Card,155
+SHOP881,27-03-2026,Coffee 100g,Food & Beverage,4,115,Debit Card,460
+SHOP882,25-02-2026,Shampoo 180ml,Personal Care,2,151,Cash,302
+SHOP883,20-01-2026,Toothpaste,Personal Care,7,86,Credit Card,602
+SHOP884,06-03-2026,Coffee 100g,Food & Beverage,3,115,UPI,345
+SHOP885,10-01-2026,Tissue Pack,Personal Care,3,45,UPI,135
+SHOP886,05-02-2026,Onion 1kg,Grocery,6,42,Credit Card,252
+SHOP887,21-02-2026,Shampoo 180ml,Personal Care,7,142,Cash,994
+SHOP888,15-03-2026,Noodles Pack,Food & Beverage,8,22,UPI,176
+SHOP889,10-02-2026,Noodles Pack,Food & Beverage,8,22,Credit Card,176
+SHOP890,14-01-2026,Toothpaste,Personal Care,1,95,UPI,95
+SHOP891,12-01-2026,Tea 250g,Grocery,1,116,Debit Card,116
+SHOP892,25-03-2026,Shampoo 180ml,Personal Care,4,152,UPI,608
+SHOP893,29-01-2026,Onion 1kg,Grocery,1,46,UPI,46
+SHOP894,27-02-2026,Onion 1kg,Grocery,6,50,Credit Card,300
+SHOP895,13-02-2026,Eggs 12 pcs,Food & Beverage,1,92,Debit Card,92
+SHOP896,12-03-2026,Dishwash Liquid,Personal Care,5,95,Debit Card,475
+SHOP897,22-01-2026,Juice 1L,Food & Beverage,1,76,UPI,76
+SHOP898,02-02-2026,Biscuits,Food & Beverage,2,26,Cash,52
+SHOP899,28-01-2026,Milk 1L,Food & Beverage,7,59,UPI,413
+SHOP900,14-01-2026,Dishwash Liquid,Personal Care,6,67,UPI,402
+SHOP901,27-02-2026,Bread,Food & Beverage,2,40,UPI,80
+SHOP902,05-03-2026,Biscuits Family Pack,Food & Beverage,3,53,Credit Card,159
+SHOP903,16-03-2026,Shampoo 180ml,Personal Care,7,136,UPI,952
+SHOP904,17-01-2026,Shampoo 180ml,Personal Care,3,140,Credit Card,420
+SHOP905,06-03-2026,Potato 1kg,Grocery,6,38,UPI,228
+SHOP906,05-02-2026,Tea 250g,Grocery,4,134,UPI,536
+SHOP907,18-01-2026,Onion 1kg,Grocery,8,44,Cash,352
+SHOP908,31-03-2026,Tea 250g,Grocery,5,134,Debit Card,670
+SHOP909,26-01-2026,Juice 1L,Food & Beverage,4,105,Cash,420
+SHOP910,29-03-2026,Face Wash 100g,Personal Care,5,135,Debit Card,675
+SHOP911,06-03-2026,Biscuits Family Pack,Food & Beverage,3,39,Debit Card,117
+SHOP912,13-03-2026,Juice 1L,Food & Beverage,6,77,UPI,462
+SHOP913,28-03-2026,Handwash 250ml,Personal Care,7,83,Debit Card,581
+SHOP914,08-03-2026,Tissue Pack,Personal Care,1,43,Credit Card,43
+SHOP915,07-01-2026,Coffee 100g,Food & Beverage,3,111,Credit Card,333
+SHOP916,06-02-2026,Milk 1L,Food & Beverage,3,62,Debit Card,186
+SHOP917,27-01-2026,Biscuits,Food & Beverage,5,20,Credit Card,100
+SHOP918,20-03-2026,Lentils 1kg,Grocery,2,119,Cash,238
+SHOP919,31-01-2026,Flour 5kg,Grocery,7,221,Debit Card,1547
+SHOP920,19-02-2026,Juice 1L,Food & Beverage,7,73,UPI,511
+SHOP921,12-03-2026,Spices Pack,Grocery,6,78,Credit Card,468
+SHOP922,21-03-2026,Coffee 100g,Food & Beverage,4,109,UPI,436
+SHOP923,17-03-2026,Dishwash Liquid,Personal Care,6,69,Cash,414
+SHOP924,07-02-2026,Salt 1kg,Grocery,4,29,UPI,116
+SHOP925,23-01-2026,Soft Drink 1L,Food & Beverage,3,57,Credit Card,171
+SHOP926,05-02-2026,Potato 1kg,Grocery,7,28,Debit Card,196
+SHOP927,01-01-2026,Biscuits,Food & Beverage,5,22,Debit Card,110
+SHOP928,06-01-2026,Soap,Personal Care,3,44,Cash,132
+SHOP929,04-03-2026,Onion 1kg,Grocery,5,36,Debit Card,180
+SHOP930,24-01-2026,Noodles Pack,Food & Beverage,4,20,Credit Card,80
+SHOP931,23-02-2026,Spices Pack,Grocery,3,67,UPI,201
+SHOP932,28-01-2026,Noodles Pack,Food & Beverage,4,20,Debit Card,80
+SHOP933,28-01-2026,Onion 1kg,Grocery,5,46,UPI,230
+SHOP934,15-01-2026,Detergent 1kg,Personal Care,1,130,Debit Card,130
+SHOP935,06-01-2026,Soap,Personal Care,4,36,Debit Card,144
+SHOP936,19-02-2026,Potato 1kg,Grocery,2,40,Debit Card,80
+SHOP937,08-03-2026,Detergent 1kg,Personal Care,1,119,Debit Card,119
+SHOP938,04-03-2026,Shampoo 180ml,Personal Care,8,151,Credit Card,1208
+SHOP939,11-02-2026,Cooking Oil 1L,Grocery,4,170,Credit Card,680
+SHOP940,22-03-2026,Eggs 12 pcs,Food & Beverage,1,90,Credit Card,90
+SHOP941,29-03-2026,Milk 1L,Food & Beverage,4,68,UPI,272
+SHOP942,10-03-2026,Dishwash Liquid,Personal Care,4,61,UPI,244
+SHOP943,29-03-2026,Bathing Bar Pack,Personal Care,2,76,Cash,152
+SHOP944,05-01-2026,Coffee 100g,Food & Beverage,6,112,Credit Card,672
+SHOP945,02-02-2026,Noodles Pack,Food & Beverage,3,15,Credit Card,45
+SHOP946,22-02-2026,Handwash 250ml,Personal Care,5,72,UPI,360
+SHOP947,25-02-2026,Soap,Personal Care,7,43,Debit Card,301
+SHOP948,10-03-2026,Coffee 100g,Food & Beverage,2,111,Credit Card,222
+SHOP949,16-03-2026,Bathing Bar Pack,Personal Care,2,73,Credit Card,146
+SHOP950,06-03-2026,Juice 1L,Food & Beverage,6,74,Credit Card,444
+SHOP951,19-03-2026,Cooking Oil 1L,Grocery,5,175,Credit Card,875
+SHOP952,18-02-2026,Cooking Oil 1L,Grocery,8,174,UPI,1392
+SHOP953,02-03-2026,Dishwash Liquid,Personal Care,1,97,Cash,97
+SHOP954,20-02-2026,Detergent 1kg,Personal Care,3,117,Debit Card,351
+SHOP955,28-03-2026,Bathing Bar Pack,Personal Care,5,54,Debit Card,270
+SHOP956,16-01-2026,Coffee 100g,Food & Beverage,3,113,Credit Card,339
+SHOP957,10-03-2026,Coffee 100g,Food & Beverage,7,114,Credit Card,798
+SHOP958,28-01-2026,Cooking Oil 1L,Grocery,6,156,UPI,936
+SHOP959,21-01-2026,Bathing Bar Pack,Personal Care,3,77,Cash,231
+SHOP960,25-01-2026,Rice 5kg,Grocery,5,369,Credit Card,1845
+SHOP961,24-03-2026,Soft Drink 1L,Food & Beverage,8,56,Credit Card,448
+SHOP962,02-02-2026,Cooking Oil 1L,Grocery,2,171,Credit Card,342
+SHOP963,12-02-2026,Milk 1L,Food & Beverage,8,69,Debit Card,552
+SHOP964,13-01-2026,Biscuits,Food & Beverage,4,30,Debit Card,120
+SHOP965,10-02-2026,Face Wash 100g,Personal Care,4,94,UPI,376
+SHOP966,30-03-2026,Soap,Personal Care,5,38,Cash,190
+SHOP967,10-02-2026,Handwash 250ml,Personal Care,6,83,UPI,498
+SHOP968,01-02-2026,Soft Drink 1L,Food & Beverage,6,55,Cash,330
+SHOP969,16-02-2026,Juice 1L,Food & Beverage,5,97,Cash,485
+SHOP970,03-03-2026,Biscuits Family Pack,Food & Beverage,6,58,UPI,348
+SHOP971,04-03-2026,Soap,Personal Care,5,38,Credit Card,190
+SHOP972,18-01-2026,Soft Drink 1L,Food & Beverage,5,57,Cash,285
+SHOP973,10-01-2026,Sugar 1kg,Grocery,2,53,Credit Card,106
+SHOP974,16-03-2026,Tissue Pack,Personal Care,1,46,UPI,46
+SHOP975,05-01-2026,Salt 1kg,Grocery,4,27,Debit Card,108
+SHOP976,25-03-2026,Detergent 1kg,Personal Care,8,127,Cash,1016
+SHOP977,17-03-2026,Lentils 1kg,Grocery,4,117,Debit Card,468
+SHOP978,20-02-2026,Biscuits,Food & Beverage,2,27,Debit Card,54
+SHOP979,20-03-2026,Shampoo 180ml,Personal Care,4,135,Cash,540
+SHOP980,27-02-2026,Salt 1kg,Grocery,3,26,Cash,78
+SHOP981,15-02-2026,Soft Drink 1L,Food & Beverage,8,59,Credit Card,472
+SHOP982,09-01-2026,Rice 5kg,Grocery,4,361,Debit Card,1444
+SHOP983,27-03-2026,Lentils 1kg,Grocery,1,112,Cash,112
+SHOP984,02-03-2026,Shampoo 180ml,Personal Care,7,146,UPI,1022
+SHOP985,14-01-2026,Bread,Food & Beverage,6,30,Debit Card,180
+SHOP986,18-02-2026,Dishwash Liquid,Personal Care,3,71,UPI,213
+SHOP987,08-03-2026,Lentils 1kg,Grocery,2,123,Debit Card,246
+SHOP988,15-02-2026,Potato 1kg,Grocery,7,31,Debit Card,217
+SHOP989,06-03-2026,Toothpaste,Personal Care,1,90,Cash,90
+SHOP990,10-01-2026,Soap,Personal Care,4,35,Debit Card,140
+SHOP991,21-01-2026,Milk 1L,Food & Beverage,3,60,Debit Card,180
+SHOP992,26-03-2026,Face Wash 100g,Personal Care,2,135,Cash,270
+SHOP993,03-03-2026,Tea 250g,Grocery,2,125,UPI,250
+SHOP994,24-03-2026,Toothpaste,Personal Care,3,81,UPI,243
+SHOP995,17-01-2026,Coffee 100g,Food & Beverage,1,108,Cash,108
+SHOP996,15-03-2026,Biscuits,Food & Beverage,1,30,Cash,30
+SHOP997,24-01-2026,Bread,Food & Beverage,5,32,UPI,160
+SHOP998,26-03-2026,Face Wash 100g,Personal Care,1,126,Debit Card,126
+SHOP999,19-03-2026,Noodles Pack,Food & Beverage,8,18,UPI,144
+SHOP1000,29-01-2026,Tissue Pack,Personal Care,3,45,UPI,135
+SHOP1001,21-03-2026,Face Wash 100g,Personal Care,3,99,Debit Card,297
+SHOP1002,18-03-2026,Soft Drink 1L,Food & Beverage,8,65,Credit Card,520
+SHOP1003,17-01-2026,Rice 5kg,Grocery,7,354,Credit Card,2478
+SHOP1004,20-01-2026,Coffee 100g,Food & Beverage,7,108,Credit Card,756
+SHOP1005,10-03-2026,Soft Drink 1L,Food & Beverage,1,70,Credit Card,70
+SHOP1006,19-03-2026,Noodles Pack,Food & Beverage,3,22,Credit Card,66
+SHOP1007,08-03-2026,Salt 1kg,Grocery,7,28,UPI,196
+SHOP1008,30-01-2026,Lentils 1kg,Grocery,7,106,UPI,742
+SHOP1009,14-02-2026,Spices Pack,Grocery,7,84,Credit Card,588
+SHOP1010,03-03-2026,Tea 250g,Grocery,5,119,Cash,595
+SHOP1011,18-03-2026,Tissue Pack,Personal Care,5,32,UPI,160
+SHOP1012,01-01-2026,Sugar 1kg,Grocery,1,45,Credit Card,45
+SHOP1013,25-03-2026,Shampoo 180ml,Personal Care,7,135,Cash,945
+SHOP1014,16-02-2026,Juice 1L,Food & Beverage,7,90,Credit Card,630
+SHOP1015,03-02-2026,Biscuits,Food & Beverage,5,26,UPI,130
+SHOP1016,29-03-2026,Handwash 250ml,Personal Care,5,76,UPI,380
+SHOP1017,12-03-2026,Salt 1kg,Grocery,7,21,UPI,147
+SHOP1018,02-02-2026,Soft Drink 1L,Food & Beverage,8,66,Debit Card,528
+SHOP1019,18-01-2026,Handwash 250ml,Personal Care,7,76,Credit Card,532
+SHOP1020,31-03-2026,Flour 5kg,Grocery,8,194,Cash,1552
+SHOP1021,13-02-2026,Eggs 12 pcs,Food & Beverage,7,91,Credit Card,637
+SHOP1022,12-01-2026,Soft Drink 1L,Food & Beverage,1,67,Cash,67
+SHOP1023,12-01-2026,Toothpaste,Personal Care,7,94,Credit Card,658
+SHOP1024,11-01-2026,Sugar 1kg,Grocery,6,45,Credit Card,270
+SHOP1025,20-03-2026,Flour 5kg,Grocery,7,204,Debit Card,1428
+SHOP1026,23-01-2026,Juice 1L,Food & Beverage,1,108,UPI,108
+SHOP1027,26-03-2026,Soap,Personal Care,4,33,Debit Card,132
+SHOP1028,20-03-2026,Milk 1L,Food & Beverage,4,58,Cash,232
+SHOP1029,31-01-2026,Biscuits Family Pack,Food & Beverage,6,36,Credit Card,216
+SHOP1030,21-02-2026,Soft Drink 1L,Food & Beverage,5,57,Debit Card,285
+SHOP1031,17-03-2026,Biscuits Family Pack,Food & Beverage,7,47,Cash,329
+SHOP1032,12-01-2026,Shampoo 180ml,Personal Care,2,135,Debit Card,270
+SHOP1033,14-02-2026,Flour 5kg,Grocery,6,233,Debit Card,1398
+SHOP1034,28-02-2026,Rice 5kg,Grocery,4,368,UPI,1472
+SHOP1035,23-01-2026,Handwash 250ml,Personal Care,5,65,UPI,325
+SHOP1036,06-03-2026,Shampoo 180ml,Personal Care,2,138,Debit Card,276
+SHOP1037,10-03-2026,Onion 1kg,Grocery,5,38,Debit Card,190
+SHOP1038,14-03-2026,Juice 1L,Food & Beverage,7,98,UPI,686
+SHOP1039,28-02-2026,Salt 1kg,Grocery,6,21,UPI,126
+SHOP1040,15-01-2026,Handwash 250ml,Personal Care,8,65,Debit Card,520
+SHOP1041,28-03-2026,Noodles Pack,Food & Beverage,4,21,Cash,84
+SHOP1042,15-02-2026,Spices Pack,Grocery,7,55,Credit Card,385
+SHOP1043,06-02-2026,Juice 1L,Food & Beverage,4,86,Credit Card,344
+SHOP1044,10-01-2026,Potato 1kg,Grocery,6,38,Cash,228
+SHOP1045,28-01-2026,Toothpaste,Personal Care,6,85,Debit Card,510
+SHOP1046,26-01-2026,Soft Drink 1L,Food & Beverage,8,61,Cash,488
+SHOP1047,27-01-2026,Flour 5kg,Grocery,5,195,Cash,975
+SHOP1048,20-01-2026,Milk 1L,Food & Beverage,6,61,Credit Card,366
+SHOP1049,20-03-2026,Eggs 12 pcs,Food & Beverage,8,87,Credit Card,696
+SHOP1050,03-03-2026,Salt 1kg,Grocery,1,26,Debit Card,26
+SHOP1051,15-03-2026,Face Wash 100g,Personal Care,8,110,Debit Card,880
+SHOP1052,20-02-2026,Toothpaste,Personal Care,5,80,Cash,400
+SHOP1053,07-01-2026,Salt 1kg,Grocery,3,27,UPI,81
+SHOP1054,06-03-2026,Toothpaste,Personal Care,1,92,Debit Card,92
+SHOP1055,28-02-2026,Potato 1kg,Grocery,3,38,Credit Card,114
+SHOP1056,10-02-2026,Juice 1L,Food & Beverage,8,103,Credit Card,824
+SHOP1057,18-02-2026,Coffee 100g,Food & Beverage,4,115,Credit Card,460
+SHOP1058,24-01-2026,Onion 1kg,Grocery,5,46,Debit Card,230
+SHOP1059,20-03-2026,Rice 5kg,Grocery,8,347,Debit Card,2776
+SHOP1060,24-02-2026,Lentils 1kg,Grocery,8,110,Cash,880
+SHOP1061,21-02-2026,Tea 250g,Grocery,6,126,Debit Card,756
+SHOP1062,15-03-2026,Soap,Personal Care,3,35,Cash,105
+SHOP1063,31-01-2026,Dishwash Liquid,Personal Care,5,61,UPI,305
+SHOP1064,19-01-2026,Tissue Pack,Personal Care,4,42,Cash,168
+SHOP1065,23-02-2026,Toothpaste,Personal Care,3,75,UPI,225
+SHOP1066,04-03-2026,Biscuits,Food & Beverage,6,30,Debit Card,180
+SHOP1067,20-02-2026,Sugar 1kg,Grocery,1,50,Credit Card,50
+SHOP1068,28-01-2026,Juice 1L,Food & Beverage,1,80,Debit Card,80
+SHOP1069,27-02-2026,Toothpaste,Personal Care,2,95,Debit Card,190
+SHOP1070,13-03-2026,Sugar 1kg,Grocery,6,47,Debit Card,282
+SHOP1071,16-01-2026,Lentils 1kg,Grocery,7,105,Debit Card,735
+SHOP1072,15-03-2026,Tissue Pack,Personal Care,4,51,Cash,204
+SHOP1073,11-02-2026,Salt 1kg,Grocery,6,22,UPI,132
+SHOP1074,11-01-2026,Salt 1kg,Grocery,8,29,UPI,232
+SHOP1075,22-03-2026,Face Wash 100g,Personal Care,8,108,Cash,864
+SHOP1076,23-02-2026,Tissue Pack,Personal Care,6,35,UPI,210
+SHOP1077,11-01-2026,Tissue Pack,Personal Care,2,59,Cash,118
+SHOP1078,10-02-2026,Onion 1kg,Grocery,6,42,Debit Card,252
+SHOP1079,04-02-2026,Juice 1L,Food & Beverage,7,87,UPI,609
+SHOP1080,22-02-2026,Salt 1kg,Grocery,8,23,Cash,184
+SHOP1081,31-01-2026,Soft Drink 1L,Food & Beverage,3,55,Debit Card,165
+SHOP1082,27-01-2026,Flour 5kg,Grocery,2,224,Cash,448
+SHOP1083,09-01-2026,Potato 1kg,Grocery,2,29,UPI,58
+SHOP1084,20-02-2026,Detergent 1kg,Personal Care,1,111,Credit Card,111
+SHOP1085,11-01-2026,Eggs 12 pcs,Food & Beverage,3,93,UPI,279
+SHOP1086,06-02-2026,Cooking Oil 1L,Grocery,4,157,UPI,628
+SHOP1087,09-03-2026,Bathing Bar Pack,Personal Care,3,54,Cash,162
+SHOP1088,11-02-2026,Coffee 100g,Food & Beverage,6,105,UPI,630
+SHOP1089,12-03-2026,Soap,Personal Care,5,41,UPI,205
+SHOP1090,17-03-2026,Biscuits,Food & Beverage,3,28,UPI,84
+SHOP1091,09-03-2026,Bathing Bar Pack,Personal Care,7,73,Debit Card,511
+SHOP1092,12-01-2026,Lentils 1kg,Grocery,4,120,UPI,480
+SHOP1093,03-02-2026,Cooking Oil 1L,Grocery,7,161,Cash,1127
+SHOP1094,08-03-2026,Cooking Oil 1L,Grocery,1,150,Cash,150
+SHOP1095,10-03-2026,Lentils 1kg,Grocery,8,114,Credit Card,912
+SHOP1096,08-02-2026,Juice 1L,Food & Beverage,8,101,Credit Card,808
+SHOP1097,18-03-2026,Salt 1kg,Grocery,5,24,Cash,120
+SHOP1098,25-01-2026,Spices Pack,Grocery,6,35,UPI,210
+SHOP1099,01-02-2026,Detergent 1kg,Personal Care,7,123,Cash,861
+SHOP1100,29-01-2026,Juice 1L,Food & Beverage,7,94,Debit Card,658
+SHOP1101,08-03-2026,Noodles Pack,Food & Beverage,4,21,Debit Card,84
+SHOP1102,22-02-2026,Cooking Oil 1L,Grocery,5,170,Cash,850
+SHOP1103,18-01-2026,Tissue Pack,Personal Care,3,32,Debit Card,96
+SHOP1104,04-02-2026,Eggs 12 pcs,Food & Beverage,8,99,UPI,792
+SHOP1105,20-01-2026,Milk 1L,Food & Beverage,1,63,Credit Card,63
+SHOP1106,14-01-2026,Detergent 1kg,Personal Care,3,110,Debit Card,330
+SHOP1107,02-01-2026,Sugar 1kg,Grocery,8,44,Cash,352
+SHOP1108,05-03-2026,Noodles Pack,Food & Beverage,1,17,Cash,17
+SHOP1109,05-03-2026,Onion 1kg,Grocery,5,48,Debit Card,240
+SHOP1110,12-02-2026,Soap,Personal Care,1,44,Credit Card,44
+SHOP1111,04-02-2026,Dishwash Liquid,Personal Care,1,64,UPI,64
+SHOP1112,24-01-2026,Noodles Pack,Food & Beverage,8,23,Cash,184
+SHOP1113,02-01-2026,Dishwash Liquid,Personal Care,7,71,Credit Card,497
+SHOP1114,19-02-2026,Salt 1kg,Grocery,4,29,UPI,116
+SHOP1115,28-02-2026,Rice 5kg,Grocery,4,332,Credit Card,1328
+SHOP1116,19-02-2026,Shampoo 180ml,Personal Care,8,141,Debit Card,1128
+SHOP1117,12-03-2026,Onion 1kg,Grocery,1,40,Credit Card,40
+SHOP1118,26-01-2026,Sugar 1kg,Grocery,5,49,Debit Card,245
+SHOP1119,15-01-2026,Bread,Food & Beverage,4,40,Cash,160
+SHOP1120,02-01-2026,Bathing Bar Pack,Personal Care,6,63,Cash,378
+SHOP1121,20-02-2026,Spices Pack,Grocery,2,52,Cash,104
+SHOP1122,30-03-2026,Coffee 100g,Food & Beverage,8,105,Cash,840
+SHOP1123,21-01-2026,Lentils 1kg,Grocery,4,107,UPI,428
+SHOP1124,22-03-2026,Noodles Pack,Food & Beverage,6,25,Credit Card,150
+SHOP1125,31-03-2026,Bread,Food & Beverage,3,35,Credit Card,105
+SHOP1126,10-02-2026,Biscuits,Food & Beverage,4,27,Debit Card,108
+SHOP1127,03-01-2026,Spices Pack,Grocery,4,63,UPI,252
+SHOP1128,06-01-2026,Lentils 1kg,Grocery,5,109,UPI,545
+SHOP1129,11-03-2026,Juice 1L,Food & Beverage,5,98,UPI,490
+SHOP1130,11-03-2026,Milk 1L,Food & Beverage,3,67,Debit Card,201
+SHOP1131,18-03-2026,Onion 1kg,Grocery,5,49,Cash,245
+SHOP1132,27-02-2026,Noodles Pack,Food & Beverage,3,23,Debit Card,69
+SHOP1133,28-02-2026,Dishwash Liquid,Personal Care,6,71,Credit Card,426
+SHOP1134,24-01-2026,Salt 1kg,Grocery,7,28,Credit Card,196
+SHOP1135,11-02-2026,Face Wash 100g,Personal Care,4,113,Credit Card,452
+SHOP1136,25-01-2026,Biscuits Family Pack,Food & Beverage,7,52,UPI,364
+SHOP1137,20-03-2026,Salt 1kg,Grocery,3,26,Debit Card,78
+SHOP1138,15-01-2026,Onion 1kg,Grocery,6,48,Credit Card,288
+SHOP1139,17-01-2026,Shampoo 180ml,Personal Care,1,137,Cash,137
+SHOP1140,14-01-2026,Tissue Pack,Personal Care,4,31,UPI,124
+SHOP1141,15-03-2026,Milk 1L,Food & Beverage,1,59,UPI,59
+SHOP1142,07-01-2026,Biscuits Family Pack,Food & Beverage,5,50,Debit Card,250
+SHOP1143,02-01-2026,Rice 5kg,Grocery,2,368,Cash,736
+SHOP1144,01-03-2026,Bathing Bar Pack,Personal Care,2,65,Credit Card,130
+SHOP1145,17-02-2026,Lentils 1kg,Grocery,7,122,Credit Card,854
+SHOP1146,09-03-2026,Dishwash Liquid,Personal Care,5,94,Credit Card,470
+SHOP1147,10-01-2026,Flour 5kg,Grocery,5,184,Cash,920
+SHOP1148,30-01-2026,Shampoo 180ml,Personal Care,2,138,UPI,276
+SHOP1149,14-03-2026,Milk 1L,Food & Beverage,4,61,Cash,244
+SHOP1150,14-01-2026,Detergent 1kg,Personal Care,7,127,Debit Card,889
+SHOP1151,14-01-2026,Biscuits Family Pack,Food & Beverage,7,49,Cash,343
+SHOP1152,06-03-2026,Spices Pack,Grocery,7,46,Debit Card,322
+SHOP1153,15-02-2026,Biscuits Family Pack,Food & Beverage,8,40,Debit Card,320
+SHOP1154,22-02-2026,Detergent 1kg,Personal Care,6,120,UPI,720
+SHOP1155,14-03-2026,Dishwash Liquid,Personal Care,4,75,Cash,300
+SHOP1156,16-02-2026,Potato 1kg,Grocery,5,40,UPI,200
+SHOP1157,05-01-2026,Soap,Personal Care,1,39,Debit Card,39
+SHOP1158,08-02-2026,Face Wash 100g,Personal Care,3,91,Credit Card,273
+SHOP1159,10-02-2026,Cooking Oil 1L,Grocery,4,157,Credit Card,628
+SHOP1160,12-03-2026,Salt 1kg,Grocery,5,29,Cash,145
+SHOP1161,15-02-2026,Eggs 12 pcs,Food & Beverage,8,86,Cash,688
+SHOP1162,16-03-2026,Biscuits,Food & Beverage,6,24,Cash,144
+SHOP1163,12-01-2026,Rice 5kg,Grocery,5,346,UPI,1730
+SHOP1164,11-02-2026,Handwash 250ml,Personal Care,2,71,UPI,142
+SHOP1165,18-03-2026,Soft Drink 1L,Food & Beverage,2,70,Debit Card,140
+SHOP1166,11-01-2026,Bread,Food & Beverage,7,39,Credit Card,273
+SHOP1167,25-02-2026,Salt 1kg,Grocery,6,23,UPI,138
+SHOP1168,25-03-2026,Tissue Pack,Personal Care,4,33,Credit Card,132
+SHOP1169,07-01-2026,Bathing Bar Pack,Personal Care,7,74,Debit Card,518
+SHOP1170,11-03-2026,Shampoo 180ml,Personal Care,6,136,Cash,816
+SHOP1171,07-01-2026,Onion 1kg,Grocery,3,42,UPI,126
+SHOP1172,29-01-2026,Soap,Personal Care,2,45,UPI,90
+SHOP1173,19-01-2026,Cooking Oil 1L,Grocery,7,175,Cash,1225
+SHOP1174,15-03-2026,Onion 1kg,Grocery,8,37,Credit Card,296
+SHOP1175,11-01-2026,Detergent 1kg,Personal Care,5,122,UPI,610
+SHOP1176,18-01-2026,Shampoo 180ml,Personal Care,3,148,UPI,444
+SHOP1177,20-02-2026,Detergent 1kg,Personal Care,8,116,Cash,928
+SHOP1178,01-02-2026,Detergent 1kg,Personal Care,4,129,Credit Card,516
+SHOP1179,11-02-2026,Sugar 1kg,Grocery,7,54,Credit Card,378
+SHOP1180,16-02-2026,Eggs 12 pcs,Food & Beverage,7,98,Debit Card,686
+SHOP1181,18-03-2026,Milk 1L,Food & Beverage,6,63,Credit Card,378
+SHOP1182,14-02-2026,Salt 1kg,Grocery,3,22,UPI,66
+SHOP1183,06-01-2026,Face Wash 100g,Personal Care,8,99,Cash,792
+SHOP1184,20-01-2026,Milk 1L,Food & Beverage,6,68,Credit Card,408
+SHOP1185,21-03-2026,Eggs 12 pcs,Food & Beverage,4,86,Cash,344
+SHOP1186,02-01-2026,Tissue Pack,Personal Care,5,56,Debit Card,280
+SHOP1187,27-02-2026,Juice 1L,Food & Beverage,5,77,UPI,385
+SHOP1188,10-03-2026,Coffee 100g,Food & Beverage,4,110,Cash,440
+SHOP1189,12-03-2026,Milk 1L,Food & Beverage,5,66,UPI,330
+SHOP1190,30-03-2026,Face Wash 100g,Personal Care,3,136,Credit Card,408
+SHOP1191,02-02-2026,Potato 1kg,Grocery,1,37,Cash,37
+SHOP1192,31-03-2026,Bread,Food & Beverage,4,34,Debit Card,136
+SHOP1193,09-01-2026,Bread,Food & Beverage,1,37,UPI,37
+SHOP1194,14-01-2026,Biscuits Family Pack,Food & Beverage,6,43,Credit Card,258
+SHOP1195,30-01-2026,Cooking Oil 1L,Grocery,7,170,UPI,1190
+SHOP1196,04-03-2026,Shampoo 180ml,Personal Care,6,138,Credit Card,828
+SHOP1197,13-03-2026,Soft Drink 1L,Food & Beverage,8,61,Credit Card,488
+SHOP1198,12-02-2026,Bread,Food & Beverage,5,33,UPI,165
+SHOP1199,03-01-2026,Potato 1kg,Grocery,3,39,Debit Card,117
+SHOP1200,22-03-2026,Biscuits Family Pack,Food & Beverage,6,46,Debit Card,276
+SHOP1201,08-01-2026,Rice 5kg,Grocery,5,362,Debit Card,1810
+SHOP1202,29-01-2026,Potato 1kg,Grocery,5,28,Cash,140
+SHOP1203,12-01-2026,Onion 1kg,Grocery,3,47,UPI,141
+SHOP1204,23-02-2026,Shampoo 180ml,Personal Care,4,154,Cash,616
+SHOP1205,09-02-2026,Handwash 250ml,Personal Care,7,69,Debit Card,483
+SHOP1206,27-01-2026,Soap,Personal Care,3,41,Cash,123
+SHOP1207,18-01-2026,Handwash 250ml,Personal Care,4,82,Debit Card,328
+SHOP1208,25-02-2026,Juice 1L,Food & Beverage,3,103,Cash,309
+SHOP1209,10-02-2026,Bathing Bar Pack,Personal Care,3,79,Credit Card,237
+SHOP1210,24-01-2026,Detergent 1kg,Personal Care,2,127,Debit Card,254
+SHOP1211,10-02-2026,Dishwash Liquid,Personal Care,1,64,UPI,64
+SHOP1212,23-03-2026,Tea 250g,Grocery,8,124,Debit Card,992
+SHOP1213,17-01-2026,Biscuits,Food & Beverage,2,23,Cash,46
+SHOP1214,19-03-2026,Coffee 100g,Food & Beverage,5,114,Cash,570
+SHOP1215,29-03-2026,Face Wash 100g,Personal Care,4,104,Credit Card,416
+SHOP1216,18-01-2026,Lentils 1kg,Grocery,8,107,UPI,856
+SHOP1217,19-02-2026,Juice 1L,Food & Beverage,3,93,UPI,279
+SHOP1218,25-01-2026,Toothpaste,Personal Care,3,79,Cash,237
+SHOP1219,04-02-2026,Bread,Food & Beverage,1,36,UPI,36
+SHOP1220,09-01-2026,Rice 5kg,Grocery,4,342,Cash,1368
+SHOP1221,30-03-2026,Soap,Personal Care,8,42,Debit Card,336
+SHOP1222,24-02-2026,Tissue Pack,Personal Care,4,44,UPI,176
+SHOP1223,10-02-2026,Salt 1kg,Grocery,7,18,UPI,126
+SHOP1224,08-03-2026,Face Wash 100g,Personal Care,1,137,Credit Card,137
+SHOP1225,01-02-2026,Soap,Personal Care,1,40,UPI,40
+SHOP1226,08-03-2026,Flour 5kg,Grocery,7,182,Credit Card,1274
+SHOP1227,20-02-2026,Milk 1L,Food & Beverage,8,62,Debit Card,496
+SHOP1228,22-01-2026,Salt 1kg,Grocery,8,22,UPI,176
+SHOP1229,30-03-2026,Cooking Oil 1L,Grocery,1,169,Cash,169
+SHOP1230,12-01-2026,Soap,Personal Care,8,43,Credit Card,344
+SHOP1231,22-02-2026,Soft Drink 1L,Food & Beverage,7,59,Debit Card,413
+SHOP1232,28-02-2026,Soap,Personal Care,3,33,Cash,99
+SHOP1233,11-02-2026,Soap,Personal Care,5,34,Cash,170
+SHOP1234,15-01-2026,Juice 1L,Food & Beverage,2,77,UPI,154
+SHOP1235,09-03-2026,Bathing Bar Pack,Personal Care,2,61,UPI,122
+SHOP1236,18-02-2026,Flour 5kg,Grocery,3,230,UPI,690
+SHOP1237,14-03-2026,Bread,Food & Beverage,6,32,Cash,192
+SHOP1238,07-01-2026,Soft Drink 1L,Food & Beverage,3,59,UPI,177
+SHOP1239,06-02-2026,Cooking Oil 1L,Grocery,8,159,Cash,1272
+SHOP1240,01-01-2026,Eggs 12 pcs,Food & Beverage,4,89,Debit Card,356
+SHOP1241,05-03-2026,Coffee 100g,Food & Beverage,8,112,Credit Card,896
+SHOP1242,28-01-2026,Face Wash 100g,Personal Care,4,121,UPI,484
+SHOP1243,11-01-2026,Soap,Personal Care,8,39,Credit Card,312
+SHOP1244,21-03-2026,Rice 5kg,Grocery,5,365,Cash,1825
+SHOP1245,08-01-2026,Bread,Food & Beverage,3,32,Debit Card,96
+SHOP1246,27-03-2026,Bread,Food & Beverage,1,32,Debit Card,32
+SHOP1247,14-01-2026,Onion 1kg,Grocery,1,37,UPI,37
+SHOP1248,20-03-2026,Soft Drink 1L,Food & Beverage,5,60,Cash,300
+SHOP1249,05-01-2026,Soap,Personal Care,6,44,Credit Card,264
+SHOP1250,17-02-2026,Salt 1kg,Grocery,6,22,UPI,132
+SHOP1251,12-03-2026,Dishwash Liquid,Personal Care,7,59,Credit Card,413
+SHOP1252,16-01-2026,Cooking Oil 1L,Grocery,3,165,Debit Card,495
+SHOP1253,31-03-2026,Onion 1kg,Grocery,4,48,Cash,192
+SHOP1254,15-03-2026,Face Wash 100g,Personal Care,2,93,Credit Card,186
+SHOP1255,24-02-2026,Toothpaste,Personal Care,5,94,Debit Card,470
+SHOP1256,17-01-2026,Sugar 1kg,Grocery,6,50,UPI,300
+SHOP1257,05-03-2026,Shampoo 180ml,Personal Care,8,155,Cash,1240
+SHOP1258,25-01-2026,Face Wash 100g,Personal Care,5,104,Credit Card,520
+SHOP1259,22-03-2026,Eggs 12 pcs,Food & Beverage,8,85,Credit Card,680
+SHOP1260,20-03-2026,Flour 5kg,Grocery,4,234,UPI,936
+SHOP1261,14-02-2026,Tea 250g,Grocery,6,116,Cash,696
+SHOP1262,30-03-2026,Coffee 100g,Food & Beverage,4,115,Debit Card,460
+SHOP1263,09-02-2026,Sugar 1kg,Grocery,2,54,Debit Card,108
+SHOP1264,01-01-2026,Shampoo 180ml,Personal Care,6,152,Credit Card,912
+SHOP1265,20-02-2026,Biscuits Family Pack,Food & Beverage,6,45,Credit Card,270
+SHOP1266,12-02-2026,Dishwash Liquid,Personal Care,4,66,Debit Card,264
+SHOP1267,05-01-2026,Biscuits Family Pack,Food & Beverage,8,50,Cash,400
+SHOP1268,10-03-2026,Toothpaste,Personal Care,8,79,Debit Card,632
+SHOP1269,08-01-2026,Soap,Personal Care,7,45,Debit Card,315
+SHOP1270,13-03-2026,Handwash 250ml,Personal Care,6,88,Credit Card,528
+SHOP1271,15-02-2026,Milk 1L,Food & Beverage,6,67,Credit Card,402
+SHOP1272,13-02-2026,Biscuits,Food & Beverage,1,24,UPI,24
+SHOP1273,15-03-2026,Bathing Bar Pack,Personal Care,3,67,UPI,201
+SHOP1274,10-02-2026,Soft Drink 1L,Food & Beverage,5,58,Credit Card,290
+SHOP1275,05-03-2026,Sugar 1kg,Grocery,2,48,Cash,96
+SHOP1276,28-01-2026,Lentils 1kg,Grocery,5,119,Debit Card,595
+SHOP1277,05-01-2026,Soft Drink 1L,Food & Beverage,6,58,Cash,348
+SHOP1278,03-03-2026,Noodles Pack,Food & Beverage,1,22,Cash,22
+SHOP1279,09-03-2026,Milk 1L,Food & Beverage,8,63,Debit Card,504
+SHOP1280,13-01-2026,Salt 1kg,Grocery,3,23,Cash,69
+SHOP1281,28-02-2026,Milk 1L,Food & Beverage,1,69,UPI,69
+SHOP1282,01-01-2026,Juice 1L,Food & Beverage,2,103,Debit Card,206
+SHOP1283,12-02-2026,Bread,Food & Beverage,2,40,UPI,80
+SHOP1284,03-01-2026,Bread,Food & Beverage,5,31,Debit Card,155
+SHOP1285,11-02-2026,Bathing Bar Pack,Personal Care,4,78,Cash,312
+SHOP1286,10-03-2026,Milk 1L,Food & Beverage,5,62,Debit Card,310
+SHOP1287,04-02-2026,Salt 1kg,Grocery,2,25,Cash,50
+SHOP1288,02-01-2026,Soft Drink 1L,Food & Beverage,2,63,Credit Card,126
+SHOP1289,12-03-2026,Milk 1L,Food & Beverage,6,66,Debit Card,396
+SHOP1290,15-03-2026,Sugar 1kg,Grocery,5,44,Cash,220
+SHOP1291,20-03-2026,Soft Drink 1L,Food & Beverage,5,57,Debit Card,285
+SHOP1292,17-01-2026,Detergent 1kg,Personal Care,1,124,Credit Card,124
+SHOP1293,19-02-2026,Toothpaste,Personal Care,2,76,Credit Card,152
+SHOP1294,23-01-2026,Noodles Pack,Food & Beverage,7,21,UPI,147
+SHOP1295,12-02-2026,Face Wash 100g,Personal Care,5,112,Cash,560
+SHOP1296,01-03-2026,Juice 1L,Food & Beverage,2,104,Cash,208
+SHOP1297,28-02-2026,Noodles Pack,Food & Beverage,2,22,Debit Card,44
+SHOP1298,02-03-2026,Biscuits Family Pack,Food & Beverage,8,55,Cash,440
+SHOP1299,16-02-2026,Rice 5kg,Grocery,5,339,UPI,1695
+SHOP1300,28-02-2026,Soft Drink 1L,Food & Beverage,6,65,UPI,390
+SHOP1301,15-01-2026,Coffee 100g,Food & Beverage,8,106,Debit Card,848
+SHOP1302,06-02-2026,Toothpaste,Personal Care,3,89,Debit Card,267
+SHOP1303,07-03-2026,Face Wash 100g,Personal Care,3,126,Credit Card,378
+SHOP1304,11-02-2026,Potato 1kg,Grocery,2,39,Credit Card,78
+SHOP1305,21-02-2026,Spices Pack,Grocery,8,54,UPI,432
+SHOP1306,12-03-2026,Rice 5kg,Grocery,4,369,Cash,1476
+SHOP1307,13-02-2026,Toothpaste,Personal Care,2,87,Cash,174
+SHOP1308,25-02-2026,Dishwash Liquid,Personal Care,7,99,Debit Card,693
+SHOP1309,26-03-2026,Detergent 1kg,Personal Care,3,117,Credit Card,351
+SHOP1310,15-01-2026,Flour 5kg,Grocery,8,239,UPI,1912
+SHOP1311,23-01-2026,Onion 1kg,Grocery,8,38,Debit Card,304
+SHOP1312,29-03-2026,Potato 1kg,Grocery,2,29,UPI,58
+SHOP1313,12-01-2026,Onion 1kg,Grocery,1,50,Cash,50
+SHOP1314,19-01-2026,Dishwash Liquid,Personal Care,1,63,Cash,63
+SHOP1315,19-02-2026,Soap,Personal Care,5,41,UPI,205
+SHOP1316,08-02-2026,Milk 1L,Food & Beverage,6,61,Debit Card,366
+SHOP1317,16-03-2026,Tea 250g,Grocery,2,126,Credit Card,252
+SHOP1318,17-01-2026,Face Wash 100g,Personal Care,7,122,Debit Card,854
+SHOP1319,01-01-2026,Bread,Food & Beverage,1,35,Debit Card,35
+SHOP1320,31-01-2026,Eggs 12 pcs,Food & Beverage,1,94,UPI,94
+SHOP1321,22-03-2026,Juice 1L,Food & Beverage,7,107,Debit Card,749
+SHOP1322,18-02-2026,Juice 1L,Food & Beverage,7,94,UPI,658
+SHOP1323,02-03-2026,Detergent 1kg,Personal Care,3,116,Cash,348
+SHOP1324,16-02-2026,Milk 1L,Food & Beverage,7,66,UPI,462
+SHOP1325,18-01-2026,Biscuits,Food & Beverage,3,24,Credit Card,72
+SHOP1326,19-01-2026,Noodles Pack,Food & Beverage,1,25,UPI,25
+SHOP1327,11-01-2026,Biscuits Family Pack,Food & Beverage,3,48,Cash,144
+SHOP1328,28-02-2026,Bathing Bar Pack,Personal Care,7,75,UPI,525
+SHOP1329,07-03-2026,Face Wash 100g,Personal Care,8,101,UPI,808
+SHOP1330,15-02-2026,Detergent 1kg,Personal Care,7,124,Cash,868
+SHOP1331,15-03-2026,Soft Drink 1L,Food & Beverage,1,68,UPI,68
+SHOP1332,06-03-2026,Tissue Pack,Personal Care,4,53,Debit Card,212
+SHOP1333,05-01-2026,Tea 250g,Grocery,6,132,Credit Card,792
+SHOP1334,15-01-2026,Handwash 250ml,Personal Care,6,80,UPI,480
+SHOP1335,09-03-2026,Juice 1L,Food & Beverage,3,75,Debit Card,225
+SHOP1336,08-03-2026,Soap,Personal Care,2,41,Credit Card,82
+SHOP1337,29-03-2026,Rice 5kg,Grocery,2,360,Debit Card,720
+SHOP1338,10-03-2026,Face Wash 100g,Personal Care,6,93,Credit Card,558
+SHOP1339,15-03-2026,Toothpaste,Personal Care,8,89,Debit Card,712
+SHOP1340,07-02-2026,Tea 250g,Grocery,5,126,Cash,630
+SHOP1341,14-03-2026,Bread,Food & Beverage,5,39,Debit Card,195
+SHOP1342,16-03-2026,Bread,Food & Beverage,8,40,Cash,320
+SHOP1343,21-03-2026,Handwash 250ml,Personal Care,5,66,Credit Card,330
+SHOP1344,17-01-2026,Cooking Oil 1L,Grocery,2,165,Credit Card,330
+SHOP1345,02-02-2026,Tissue Pack,Personal Care,5,55,Cash,275
+SHOP1346,02-02-2026,Face Wash 100g,Personal Care,5,107,Credit Card,535
+SHOP1347,17-03-2026,Flour 5kg,Grocery,3,187,Cash,561
+SHOP1348,23-01-2026,Biscuits Family Pack,Food & Beverage,6,49,Debit Card,294
+SHOP1349,04-03-2026,Spices Pack,Grocery,4,79,Cash,316
+SHOP1350,13-02-2026,Spices Pack,Grocery,1,68,Credit Card,68
+SHOP1351,05-03-2026,Biscuits,Food & Beverage,3,29,UPI,87
+SHOP1352,26-03-2026,Salt 1kg,Grocery,4,24,UPI,96
+SHOP1353,27-01-2026,Flour 5kg,Grocery,3,220,Debit Card,660
+SHOP1354,15-01-2026,Bread,Food & Beverage,5,40,Credit Card,200
+SHOP1355,02-03-2026,Soft Drink 1L,Food & Beverage,7,69,Debit Card,483
+SHOP1356,18-02-2026,Toothpaste,Personal Care,4,92,UPI,368
+SHOP1357,09-03-2026,Toothpaste,Personal Care,3,83,UPI,249
+SHOP1358,18-02-2026,Coffee 100g,Food & Beverage,8,109,Debit Card,872
+SHOP1359,10-03-2026,Shampoo 180ml,Personal Care,2,136,Debit Card,272
+SHOP1360,12-02-2026,Tissue Pack,Personal Care,5,43,Debit Card,215
+SHOP1361,02-02-2026,Sugar 1kg,Grocery,2,54,UPI,108
+SHOP1362,28-03-2026,Soap,Personal Care,4,45,Cash,180
+SHOP1363,10-02-2026,Shampoo 180ml,Personal Care,3,145,Credit Card,435
+SHOP1364,02-01-2026,Biscuits Family Pack,Food & Beverage,2,35,UPI,70
+SHOP1365,14-02-2026,Eggs 12 pcs,Food & Beverage,8,88,Cash,704
+SHOP1366,25-01-2026,Flour 5kg,Grocery,5,198,Credit Card,990
+SHOP1367,08-01-2026,Coffee 100g,Food & Beverage,2,114,Cash,228
+SHOP1368,16-01-2026,Face Wash 100g,Personal Care,2,130,Credit Card,260
+SHOP1369,18-02-2026,Tissue Pack,Personal Care,3,49,Cash,147
+SHOP1370,07-02-2026,Eggs 12 pcs,Food & Beverage,5,90,UPI,450
+SHOP1371,05-02-2026,Biscuits Family Pack,Food & Beverage,8,37,UPI,296
+SHOP1372,21-01-2026,Juice 1L,Food & Beverage,5,90,Credit Card,450
+SHOP1373,18-02-2026,Sugar 1kg,Grocery,1,54,UPI,54
+SHOP1374,03-02-2026,Onion 1kg,Grocery,5,36,Cash,180
+SHOP1375,26-01-2026,Soap,Personal Care,8,34,UPI,272
+SHOP1376,19-01-2026,Soft Drink 1L,Food & Beverage,2,70,UPI,140
+SHOP1377,26-02-2026,Milk 1L,Food & Beverage,2,67,Debit Card,134
+SHOP1378,10-01-2026,Eggs 12 pcs,Food & Beverage,2,86,Debit Card,172
+SHOP1379,05-03-2026,Salt 1kg,Grocery,1,25,Cash,25
+SHOP1380,05-01-2026,Bathing Bar Pack,Personal Care,1,70,UPI,70
+SHOP1381,20-02-2026,Sugar 1kg,Grocery,6,44,Credit Card,264
+SHOP1382,25-02-2026,Shampoo 180ml,Personal Care,8,150,UPI,1200
+SHOP1383,11-03-2026,Tissue Pack,Personal Care,2,53,Cash,106
+SHOP1384,16-01-2026,Coffee 100g,Food & Beverage,8,111,Debit Card,888
+SHOP1385,08-01-2026,Onion 1kg,Grocery,7,44,Credit Card,308
+SHOP1386,11-01-2026,Lentils 1kg,Grocery,6,122,UPI,732
+SHOP1387,24-03-2026,Salt 1kg,Grocery,5,30,Cash,150
+SHOP1388,26-03-2026,Soft Drink 1L,Food & Beverage,7,56,Cash,392
+SHOP1389,14-01-2026,Cooking Oil 1L,Grocery,7,172,Debit Card,1204
+SHOP1390,25-01-2026,Toothpaste,Personal Care,8,77,Cash,616
+SHOP1391,17-03-2026,Bread,Food & Beverage,1,33,Cash,33
+SHOP1392,11-03-2026,Toothpaste,Personal Care,2,87,Debit Card,174
+SHOP1393,03-01-2026,Toothpaste,Personal Care,8,92,Credit Card,736
+SHOP1394,06-01-2026,Onion 1kg,Grocery,6,36,UPI,216
+SHOP1395,28-03-2026,Eggs 12 pcs,Food & Beverage,8,91,Cash,728
+SHOP1396,10-01-2026,Flour 5kg,Grocery,4,217,Credit Card,868
+SHOP1397,25-03-2026,Flour 5kg,Grocery,8,189,Credit Card,1512
+SHOP1398,01-02-2026,Toothpaste,Personal Care,1,94,Cash,94
+SHOP1399,09-02-2026,Coffee 100g,Food & Beverage,1,107,Credit Card,107
+SHOP1400,17-03-2026,Soap,Personal Care,3,42,Credit Card,126
+SHOP1401,05-03-2026,Dishwash Liquid,Personal Care,2,61,Cash,122
+SHOP1402,13-02-2026,Noodles Pack,Food & Beverage,7,18,UPI,126
+SHOP1403,11-02-2026,Onion 1kg,Grocery,3,38,Cash,114
+SHOP1404,12-02-2026,Salt 1kg,Grocery,3,18,Credit Card,54
+SHOP1405,23-02-2026,Eggs 12 pcs,Food & Beverage,3,93,Cash,279
+SHOP1406,26-02-2026,Juice 1L,Food & Beverage,3,93,Cash,279
+SHOP1407,13-01-2026,Handwash 250ml,Personal Care,3,66,UPI,198
+SHOP1408,04-03-2026,Salt 1kg,Grocery,1,20,Credit Card,20
+SHOP1409,12-01-2026,Coffee 100g,Food & Beverage,3,105,Debit Card,315
+SHOP1410,27-01-2026,Tea 250g,Grocery,3,130,Cash,390
+SHOP1411,22-02-2026,Bathing Bar Pack,Personal Care,8,58,Cash,464
+SHOP1412,05-03-2026,Soft Drink 1L,Food & Beverage,3,56,Credit Card,168
+SHOP1413,14-02-2026,Bathing Bar Pack,Personal Care,5,76,UPI,380
+SHOP1414,25-01-2026,Coffee 100g,Food & Beverage,4,113,Credit Card,452
+SHOP1415,11-03-2026,Shampoo 180ml,Personal Care,6,138,Cash,828
+SHOP1416,05-02-2026,Soap,Personal Care,4,45,Credit Card,180
+SHOP1417,29-03-2026,Milk 1L,Food & Beverage,3,59,UPI,177
+SHOP1418,27-03-2026,Toothpaste,Personal Care,3,80,Credit Card,240
+SHOP1419,06-02-2026,Bread,Food & Beverage,6,40,Cash,240
+SHOP1420,20-03-2026,Tea 250g,Grocery,6,123,UPI,738
+SHOP1421,10-03-2026,Bread,Food & Beverage,1,31,Cash,31
+SHOP1422,07-03-2026,Soft Drink 1L,Food & Beverage,8,55,Credit Card,440
+SHOP1423,17-03-2026,Noodles Pack,Food & Beverage,8,18,Debit Card,144
+SHOP1424,30-01-2026,Tea 250g,Grocery,6,121,Credit Card,726
+SHOP1425,31-01-2026,Onion 1kg,Grocery,2,42,UPI,84
+SHOP1426,29-01-2026,Tissue Pack,Personal Care,7,36,Credit Card,252
+SHOP1427,07-01-2026,Toothpaste,Personal Care,8,93,UPI,744
+SHOP1428,23-01-2026,Biscuits,Food & Beverage,8,23,UPI,184
+SHOP1429,25-01-2026,Lentils 1kg,Grocery,8,109,Debit Card,872
+SHOP1430,17-01-2026,Sugar 1kg,Grocery,6,45,Credit Card,270
+SHOP1431,05-02-2026,Juice 1L,Food & Beverage,1,106,Cash,106
+SHOP1432,23-02-2026,Eggs 12 pcs,Food & Beverage,8,99,Cash,792
+SHOP1433,07-02-2026,Salt 1kg,Grocery,4,23,Cash,92
+SHOP1434,15-03-2026,Spices Pack,Grocery,3,85,Cash,255
+SHOP1435,28-01-2026,Noodles Pack,Food & Beverage,8,21,UPI,168
+SHOP1436,02-01-2026,Dishwash Liquid,Personal Care,5,84,UPI,420
+SHOP1437,01-02-2026,Flour 5kg,Grocery,4,235,Debit Card,940
+SHOP1438,17-03-2026,Tea 250g,Grocery,4,133,Cash,532
+SHOP1439,06-01-2026,Handwash 250ml,Personal Care,7,65,Credit Card,455
+SHOP1440,24-02-2026,Toothpaste,Personal Care,1,91,UPI,91
+SHOP1441,05-03-2026,Toothpaste,Personal Care,8,78,Cash,624
+SHOP1442,30-03-2026,Noodles Pack,Food & Beverage,1,23,UPI,23
+SHOP1443,07-02-2026,Milk 1L,Food & Beverage,6,60,Cash,360
+SHOP1444,03-03-2026,Bathing Bar Pack,Personal Care,1,52,Debit Card,52
+SHOP1445,28-02-2026,Soft Drink 1L,Food & Beverage,1,69,UPI,69
+SHOP1446,24-01-2026,Salt 1kg,Grocery,7,20,Debit Card,140
+SHOP1447,22-03-2026,Bathing Bar Pack,Personal Care,1,64,Credit Card,64
+SHOP1448,09-03-2026,Potato 1kg,Grocery,6,39,Credit Card,234
+SHOP1449,31-03-2026,Cooking Oil 1L,Grocery,5,163,Cash,815
+SHOP1450,21-03-2026,Spices Pack,Grocery,2,78,Debit Card,156
+SHOP1451,07-03-2026,Flour 5kg,Grocery,1,239,Debit Card,239
+SHOP1452,16-02-2026,Bread,Food & Beverage,7,31,UPI,217
+SHOP1453,16-02-2026,Face Wash 100g,Personal Care,6,92,Cash,552
+SHOP1454,13-03-2026,Bathing Bar Pack,Personal Care,2,67,Cash,134
+SHOP1455,11-03-2026,Biscuits,Food & Beverage,4,25,Credit Card,100
+SHOP1456,29-01-2026,Bathing Bar Pack,Personal Care,4,65,Debit Card,260
+SHOP1457,05-02-2026,Lentils 1kg,Grocery,7,113,Credit Card,791
+SHOP1458,27-02-2026,Noodles Pack,Food & Beverage,6,20,UPI,120
+SHOP1459,02-03-2026,Shampoo 180ml,Personal Care,2,151,Debit Card,302
+SHOP1460,28-03-2026,Soap,Personal Care,6,42,Credit Card,252
+SHOP1461,11-01-2026,Milk 1L,Food & Beverage,2,65,UPI,130
+SHOP1462,14-01-2026,Soft Drink 1L,Food & Beverage,2,64,Cash,128
+SHOP1463,05-03-2026,Sugar 1kg,Grocery,3,43,Cash,129
+SHOP1464,07-02-2026,Tissue Pack,Personal Care,1,36,UPI,36
+SHOP1465,02-03-2026,Biscuits Family Pack,Food & Beverage,3,52,Debit Card,156
+SHOP1466,07-02-2026,Tea 250g,Grocery,1,129,Cash,129
+SHOP1467,08-03-2026,Noodles Pack,Food & Beverage,4,15,Debit Card,60
+SHOP1468,25-03-2026,Tea 250g,Grocery,6,133,Debit Card,798
+SHOP1469,28-02-2026,Toothpaste,Personal Care,8,93,Debit Card,744
+SHOP1470,22-01-2026,Handwash 250ml,Personal Care,5,69,Debit Card,345
+SHOP1471,06-02-2026,Rice 5kg,Grocery,6,360,Credit Card,2160
+SHOP1472,28-02-2026,Biscuits,Food & Beverage,5,25,Cash,125
+SHOP1473,24-01-2026,Face Wash 100g,Personal Care,5,100,Cash,500
+SHOP1474,21-01-2026,Dishwash Liquid,Personal Care,3,100,Cash,300
+SHOP1475,15-03-2026,Eggs 12 pcs,Food & Beverage,6,86,Cash,516
+SHOP1476,24-01-2026,Soap,Personal Care,6,37,Cash,222
+SHOP1477,14-02-2026,Detergent 1kg,Personal Care,6,111,Cash,666
+SHOP1478,10-03-2026,Lentils 1kg,Grocery,3,119,Debit Card,357
+SHOP1479,05-03-2026,Eggs 12 pcs,Food & Beverage,7,85,Cash,595
+SHOP1480,01-01-2026,Soap,Personal Care,3,38,Debit Card,114
+SHOP1481,02-03-2026,Bathing Bar Pack,Personal Care,5,72,Debit Card,360
+SHOP1482,14-03-2026,Salt 1kg,Grocery,3,27,UPI,81
+SHOP1483,06-01-2026,Onion 1kg,Grocery,8,38,Cash,304
+SHOP1484,09-02-2026,Biscuits Family Pack,Food & Beverage,2,52,Credit Card,104
+SHOP1485,27-02-2026,Potato 1kg,Grocery,4,37,Debit Card,148
+SHOP1486,19-03-2026,Noodles Pack,Food & Beverage,1,20,Cash,20
+SHOP1487,05-02-2026,Handwash 250ml,Personal Care,4,81,Cash,324
+SHOP1488,28-03-2026,Coffee 100g,Food & Beverage,8,106,Credit Card,848
+SHOP1489,04-03-2026,Shampoo 180ml,Personal Care,4,147,Debit Card,588
+SHOP1490,27-03-2026,Face Wash 100g,Personal Care,1,128,Debit Card,128
+SHOP1491,17-02-2026,Potato 1kg,Grocery,7,30,UPI,210
+SHOP1492,14-02-2026,Lentils 1kg,Grocery,5,105,Debit Card,525
+SHOP1493,28-01-2026,Cooking Oil 1L,Grocery,2,164,UPI,328
+SHOP1494,06-02-2026,Flour 5kg,Grocery,8,206,Cash,1648
+SHOP1495,23-02-2026,Spices Pack,Grocery,7,81,Cash,567
+SHOP1496,19-01-2026,Dishwash Liquid,Personal Care,2,92,Cash,184
+SHOP1497,09-01-2026,Cooking Oil 1L,Grocery,6,165,UPI,990
+SHOP1498,23-03-2026,Noodles Pack,Food & Beverage,7,15,Debit Card,105
+SHOP1499,14-03-2026,Tea 250g,Grocery,8,120,Cash,960
+SHOP1500,07-02-2026,Milk 1L,Food & Beverage,7,60,UPI,420
+SHOP1501,05-03-2026,Bread,Food & Beverage,5,34,UPI,170
+SHOP1502,20-01-2026,Rice 5kg,Grocery,1,331,Debit Card,331
+SHOP1503,16-01-2026,Cooking Oil 1L,Grocery,8,170,Debit Card,1360
+SHOP1504,30-03-2026,Tea 250g,Grocery,8,120,Cash,960
+SHOP1505,05-03-2026,Coffee 100g,Food & Beverage,5,106,Credit Card,530
+SHOP1506,16-03-2026,Face Wash 100g,Personal Care,6,137,UPI,822
+SHOP1507,22-03-2026,Handwash 250ml,Personal Care,5,78,UPI,390
+SHOP1508,07-03-2026,Juice 1L,Food & Beverage,6,77,Credit Card,462
+SHOP1509,16-03-2026,Tissue Pack,Personal Care,3,38,Credit Card,114
+SHOP1510,30-03-2026,Biscuits,Food & Beverage,8,25,Cash,200
+SHOP1511,04-02-2026,Lentils 1kg,Grocery,1,110,Debit Card,110
+SHOP1512,07-01-2026,Tea 250g,Grocery,6,135,Debit Card,810
+SHOP1513,07-03-2026,Cooking Oil 1L,Grocery,2,166,Cash,332
+SHOP1514,13-01-2026,Salt 1kg,Grocery,3,28,Cash,84
+SHOP1515,29-03-2026,Detergent 1kg,Personal Care,6,120,Debit Card,720
+SHOP1516,13-01-2026,Sugar 1kg,Grocery,6,52,Debit Card,312
+SHOP1517,18-01-2026,Dishwash Liquid,Personal Care,1,64,Debit Card,64
+SHOP1518,13-02-2026,Lentils 1kg,Grocery,7,120,Cash,840
+SHOP1519,06-03-2026,Eggs 12 pcs,Food & Beverage,3,91,Cash,273
+SHOP1520,23-02-2026,Dishwash Liquid,Personal Care,2,67,UPI,134
+SHOP1521,03-01-2026,Noodles Pack,Food & Beverage,3,16,UPI,48
+SHOP1522,18-01-2026,Lentils 1kg,Grocery,6,114,UPI,684
+SHOP1523,23-01-2026,Face Wash 100g,Personal Care,6,123,Debit Card,738
+SHOP1524,17-01-2026,Coffee 100g,Food & Beverage,4,106,Cash,424
+SHOP1525,17-01-2026,Juice 1L,Food & Beverage,5,84,Cash,420
+SHOP1526,30-03-2026,Biscuits,Food & Beverage,7,21,Credit Card,147
+SHOP1527,25-02-2026,Noodles Pack,Food & Beverage,8,15,Credit Card,120
+SHOP1528,26-03-2026,Milk 1L,Food & Beverage,1,59,Credit Card,59
+SHOP1529,06-01-2026,Toothpaste,Personal Care,5,78,Credit Card,390
+SHOP1530,13-01-2026,Cooking Oil 1L,Grocery,1,171,Credit Card,171
+SHOP1531,24-01-2026,Face Wash 100g,Personal Care,4,103,Debit Card,412
+SHOP1532,05-02-2026,Coffee 100g,Food & Beverage,3,106,Debit Card,318
+SHOP1533,06-03-2026,Lentils 1kg,Grocery,4,110,Credit Card,440
+SHOP1534,25-01-2026,Eggs 12 pcs,Food & Beverage,4,85,Debit Card,340
+SHOP1535,28-01-2026,Soft Drink 1L,Food & Beverage,2,55,UPI,110
+SHOP1536,26-02-2026,Lentils 1kg,Grocery,3,123,Credit Card,369
+SHOP1537,24-02-2026,Soft Drink 1L,Food & Beverage,7,66,Cash,462
+SHOP1538,15-01-2026,Shampoo 180ml,Personal Care,7,142,Debit Card,994
+SHOP1539,08-03-2026,Eggs 12 pcs,Food & Beverage,2,99,Cash,198
+SHOP1540,13-03-2026,Toothpaste,Personal Care,5,86,Credit Card,430
+SHOP1541,15-01-2026,Noodles Pack,Food & Beverage,8,20,UPI,160
+SHOP1542,29-03-2026,Cooking Oil 1L,Grocery,5,164,UPI,820
+SHOP1543,07-02-2026,Rice 5kg,Grocery,7,365,UPI,2555
+SHOP1544,28-03-2026,Milk 1L,Food & Beverage,8,59,Debit Card,472
+SHOP1545,28-03-2026,Soft Drink 1L,Food & Beverage,8,55,Credit Card,440
+SHOP1546,16-01-2026,Potato 1kg,Grocery,2,35,Cash,70
+SHOP1547,22-01-2026,Potato 1kg,Grocery,2,34,Credit Card,68
+SHOP1548,26-01-2026,Lentils 1kg,Grocery,6,111,UPI,666
+SHOP1549,05-03-2026,Eggs 12 pcs,Food & Beverage,7,92,Debit Card,644
+SHOP1550,24-03-2026,Salt 1kg,Grocery,5,29,UPI,145
+SHOP1551,04-03-2026,Lentils 1kg,Grocery,7,120,Debit Card,840
+SHOP1552,16-01-2026,Biscuits,Food & Beverage,2,27,Debit Card,54
+SHOP1553,22-03-2026,Toothpaste,Personal Care,4,90,Cash,360
+SHOP1554,09-01-2026,Coffee 100g,Food & Beverage,1,106,UPI,106
+SHOP1555,18-02-2026,Biscuits Family Pack,Food & Beverage,3,35,Debit Card,105
+SHOP1556,10-01-2026,Biscuits,Food & Beverage,2,24,UPI,48
+SHOP1557,07-02-2026,Spices Pack,Grocery,4,64,UPI,256
+SHOP1558,11-03-2026,Toothpaste,Personal Care,5,91,Debit Card,455
+SHOP1559,05-01-2026,Spices Pack,Grocery,1,90,UPI,90
+SHOP1560,10-02-2026,Eggs 12 pcs,Food & Beverage,8,97,UPI,776
+SHOP1561,05-01-2026,Soap,Personal Care,1,40,Cash,40
+SHOP1562,04-03-2026,Detergent 1kg,Personal Care,3,119,UPI,357
+SHOP1563,04-03-2026,Biscuits,Food & Beverage,7,24,Credit Card,168
+SHOP1564,26-03-2026,Handwash 250ml,Personal Care,8,86,UPI,688
+SHOP1565,06-03-2026,Toothpaste,Personal Care,3,92,Credit Card,276
+SHOP1566,17-03-2026,Potato 1kg,Grocery,8,32,UPI,256
+SHOP1567,06-02-2026,Face Wash 100g,Personal Care,6,133,Debit Card,798
+SHOP1568,17-01-2026,Bread,Food & Beverage,1,30,Debit Card,30
+SHOP1569,22-03-2026,Lentils 1kg,Grocery,1,123,Debit Card,123
+SHOP1570,14-02-2026,Potato 1kg,Grocery,7,29,Debit Card,203
+SHOP1571,26-03-2026,Tea 250g,Grocery,1,126,Cash,126
+SHOP1572,17-03-2026,Rice 5kg,Grocery,5,345,Credit Card,1725
+SHOP1573,15-01-2026,Juice 1L,Food & Beverage,5,74,Debit Card,370
+SHOP1574,05-01-2026,Soft Drink 1L,Food & Beverage,6,55,UPI,330
+SHOP1575,04-02-2026,Biscuits Family Pack,Food & Beverage,7,48,Credit Card,336
+SHOP1576,10-02-2026,Juice 1L,Food & Beverage,1,100,UPI,100
+SHOP1577,15-03-2026,Handwash 250ml,Personal Care,6,77,Credit Card,462
+SHOP1578,30-03-2026,Spices Pack,Grocery,2,66,Cash,132
+SHOP1579,22-01-2026,Onion 1kg,Grocery,6,50,Debit Card,300
+SHOP1580,05-03-2026,Lentils 1kg,Grocery,4,118,Credit Card,472
+SHOP1581,06-02-2026,Dishwash Liquid,Personal Care,4,89,Debit Card,356
+SHOP1582,29-01-2026,Bread,Food & Beverage,7,34,Credit Card,238
+SHOP1583,17-03-2026,Juice 1L,Food & Beverage,2,107,Debit Card,214
+SHOP1584,24-02-2026,Sugar 1kg,Grocery,8,43,Cash,344
+SHOP1585,06-03-2026,Lentils 1kg,Grocery,5,107,Debit Card,535
+SHOP1586,26-01-2026,Tea 250g,Grocery,6,132,UPI,792
+SHOP1587,27-03-2026,Potato 1kg,Grocery,8,32,Cash,256
+SHOP1588,15-03-2026,Coffee 100g,Food & Beverage,3,115,UPI,345
+SHOP1589,04-02-2026,Milk 1L,Food & Beverage,8,68,UPI,544
+SHOP1590,08-03-2026,Handwash 250ml,Personal Care,1,88,Cash,88
+SHOP1591,31-01-2026,Lentils 1kg,Grocery,3,119,Cash,357
+SHOP1592,25-02-2026,Flour 5kg,Grocery,5,223,UPI,1115
+SHOP1593,22-02-2026,Onion 1kg,Grocery,4,37,Debit Card,148
+SHOP1594,02-02-2026,Dishwash Liquid,Personal Care,3,73,Cash,219
+SHOP1595,20-01-2026,Potato 1kg,Grocery,2,31,Cash,62
+SHOP1596,01-03-2026,Coffee 100g,Food & Beverage,5,108,UPI,540
+SHOP1597,24-03-2026,Detergent 1kg,Personal Care,7,123,Credit Card,861
+SHOP1598,18-01-2026,Milk 1L,Food & Beverage,5,60,Credit Card,300
+SHOP1599,26-03-2026,Sugar 1kg,Grocery,5,54,Cash,270
+SHOP1600,04-03-2026,Bathing Bar Pack,Personal Care,1,77,Credit Card,77
+SHOP1601,19-03-2026,Bread,Food & Beverage,6,31,Debit Card,186
+SHOP1602,16-02-2026,Tissue Pack,Personal Care,7,32,Credit Card,224
+SHOP1603,31-01-2026,Potato 1kg,Grocery,3,39,Credit Card,117
+SHOP1604,08-03-2026,Handwash 250ml,Personal Care,2,88,Debit Card,176
+SHOP1605,18-03-2026,Toothpaste,Personal Care,4,77,Credit Card,308
+SHOP1606,12-02-2026,Salt 1kg,Grocery,6,30,UPI,180
+SHOP1607,24-02-2026,Spices Pack,Grocery,4,82,Cash,328
+SHOP1608,28-01-2026,Biscuits,Food & Beverage,3,21,Debit Card,63
+SHOP1609,17-03-2026,Soap,Personal Care,5,39,Credit Card,195
+SHOP1610,31-03-2026,Toothpaste,Personal Care,6,92,Credit Card,552
+SHOP1611,29-03-2026,Onion 1kg,Grocery,8,48,Cash,384
+SHOP1612,16-02-2026,Sugar 1kg,Grocery,3,54,UPI,162
+SHOP1613,03-01-2026,Juice 1L,Food & Beverage,5,93,Credit Card,465
+SHOP1614,30-03-2026,Dishwash Liquid,Personal Care,1,97,Cash,97
+SHOP1615,09-02-2026,Sugar 1kg,Grocery,7,50,Debit Card,350
+SHOP1616,10-03-2026,Spices Pack,Grocery,2,78,Cash,156
+SHOP1617,02-01-2026,Tissue Pack,Personal Care,7,44,UPI,308
+SHOP1618,31-01-2026,Sugar 1kg,Grocery,2,46,Debit Card,92
+SHOP1619,22-03-2026,Milk 1L,Food & Beverage,8,60,Debit Card,480
+SHOP1620,05-01-2026,Spices Pack,Grocery,7,84,Debit Card,588
+SHOP1621,02-03-2026,Tissue Pack,Personal Care,8,32,UPI,256
+SHOP1622,13-01-2026,Dishwash Liquid,Personal Care,7,76,Cash,532
+SHOP1623,15-02-2026,Juice 1L,Food & Beverage,2,86,UPI,172
+SHOP1624,28-02-2026,Face Wash 100g,Personal Care,6,136,Credit Card,816
+SHOP1625,22-03-2026,Salt 1kg,Grocery,3,18,UPI,54
+SHOP1626,01-01-2026,Spices Pack,Grocery,3,76,UPI,228
+SHOP1627,10-02-2026,Milk 1L,Food & Beverage,5,68,Credit Card,340
+SHOP1628,08-03-2026,Eggs 12 pcs,Food & Beverage,4,90,Cash,360
+SHOP1629,10-02-2026,Tissue Pack,Personal Care,7,49,UPI,343
+SHOP1630,23-01-2026,Toothpaste,Personal Care,5,79,Debit Card,395
+SHOP1631,11-01-2026,Spices Pack,Grocery,4,53,UPI,212
+SHOP1632,18-02-2026,Lentils 1kg,Grocery,7,110,Cash,770
+SHOP1633,12-01-2026,Coffee 100g,Food & Beverage,4,105,UPI,420
+SHOP1634,07-01-2026,Milk 1L,Food & Beverage,3,62,UPI,186
+SHOP1635,20-01-2026,Face Wash 100g,Personal Care,5,117,Credit Card,585
+SHOP1636,02-01-2026,Lentils 1kg,Grocery,2,110,UPI,220
+SHOP1637,16-01-2026,Salt 1kg,Grocery,8,25,Cash,200
+SHOP1638,04-02-2026,Juice 1L,Food & Beverage,4,83,Debit Card,332
+SHOP1639,17-01-2026,Flour 5kg,Grocery,7,211,UPI,1477
+SHOP1640,06-02-2026,Tissue Pack,Personal Care,4,36,Cash,144
+SHOP1641,19-01-2026,Tea 250g,Grocery,7,120,Credit Card,840
+SHOP1642,21-03-2026,Cooking Oil 1L,Grocery,4,158,UPI,632
+SHOP1643,11-01-2026,Rice 5kg,Grocery,8,353,Credit Card,2824
+SHOP1644,30-03-2026,Toothpaste,Personal Care,6,79,UPI,474
+SHOP1645,24-02-2026,Biscuits Family Pack,Food & Beverage,7,41,Debit Card,287
+SHOP1646,07-01-2026,Noodles Pack,Food & Beverage,1,16,Debit Card,16
+SHOP1647,19-03-2026,Rice 5kg,Grocery,6,360,Credit Card,2160
+SHOP1648,08-02-2026,Coffee 100g,Food & Beverage,7,109,UPI,763
+SHOP1649,13-03-2026,Biscuits Family Pack,Food & Beverage,3,46,Credit Card,138
+SHOP1650,22-01-2026,Handwash 250ml,Personal Care,5,70,UPI,350
+SHOP1651,12-01-2026,Onion 1kg,Grocery,3,49,Debit Card,147
+SHOP1652,19-01-2026,Juice 1L,Food & Beverage,7,103,Debit Card,721
+SHOP1653,17-01-2026,Eggs 12 pcs,Food & Beverage,1,95,UPI,95
+SHOP1654,16-02-2026,Tissue Pack,Personal Care,5,56,UPI,280
+SHOP1655,08-03-2026,Cooking Oil 1L,Grocery,5,158,Debit Card,790
+SHOP1656,04-03-2026,Tea 250g,Grocery,6,120,Cash,720
+SHOP1657,07-01-2026,Detergent 1kg,Personal Care,8,130,Cash,1040
+SHOP1658,24-01-2026,Biscuits,Food & Beverage,4,20,Credit Card,80
+SHOP1659,01-03-2026,Toothpaste,Personal Care,3,83,UPI,249
+SHOP1660,26-02-2026,Eggs 12 pcs,Food & Beverage,1,100,Debit Card,100
+SHOP1661,28-02-2026,Juice 1L,Food & Beverage,8,105,UPI,840
+SHOP1662,14-02-2026,Eggs 12 pcs,Food & Beverage,2,89,Credit Card,178
+SHOP1663,22-01-2026,Milk 1L,Food & Beverage,3,62,Debit Card,186
+SHOP1664,16-03-2026,Handwash 250ml,Personal Care,4,86,Credit Card,344
+SHOP1665,23-02-2026,Shampoo 180ml,Personal Care,3,153,Credit Card,459
+SHOP1666,12-02-2026,Rice 5kg,Grocery,2,361,Credit Card,722
+SHOP1667,20-02-2026,Cooking Oil 1L,Grocery,2,171,Debit Card,342
+SHOP1668,20-01-2026,Handwash 250ml,Personal Care,6,68,Credit Card,408
+SHOP1669,28-02-2026,Noodles Pack,Food & Beverage,8,22,Debit Card,176
+SHOP1670,12-02-2026,Face Wash 100g,Personal Care,1,132,Credit Card,132
+SHOP1671,11-02-2026,Bathing Bar Pack,Personal Care,8,69,Cash,552
+SHOP1672,11-02-2026,Milk 1L,Food & Beverage,5,58,Credit Card,290
+SHOP1673,12-01-2026,Flour 5kg,Grocery,7,184,UPI,1288
+SHOP1674,21-02-2026,Sugar 1kg,Grocery,4,44,Credit Card,176
+SHOP1675,19-02-2026,Coffee 100g,Food & Beverage,3,108,UPI,324
+SHOP1676,16-01-2026,Cooking Oil 1L,Grocery,3,170,Debit Card,510
+SHOP1677,29-03-2026,Toothpaste,Personal Care,5,88,Cash,440
+SHOP1678,07-03-2026,Lentils 1kg,Grocery,6,108,Cash,648
+SHOP1679,02-03-2026,Toothpaste,Personal Care,7,89,Debit Card,623
+SHOP1680,12-01-2026,Handwash 250ml,Personal Care,7,84,UPI,588
+SHOP1681,25-02-2026,Spices Pack,Grocery,3,58,UPI,174
+SHOP1682,01-03-2026,Noodles Pack,Food & Beverage,6,15,Cash,90
+SHOP1683,05-03-2026,Bathing Bar Pack,Personal Care,3,71,Credit Card,213
+SHOP1684,11-01-2026,Cooking Oil 1L,Grocery,7,164,UPI,1148
+SHOP1685,29-03-2026,Cooking Oil 1L,Grocery,3,154,Debit Card,462
+SHOP1686,07-02-2026,Dishwash Liquid,Personal Care,7,70,Credit Card,490
+SHOP1687,07-03-2026,Detergent 1kg,Personal Care,1,112,Credit Card,112
+SHOP1688,13-01-2026,Shampoo 180ml,Personal Care,7,148,UPI,1036
+SHOP1689,15-02-2026,Biscuits Family Pack,Food & Beverage,5,58,Debit Card,290
+SHOP1690,15-01-2026,Handwash 250ml,Personal Care,1,67,UPI,67
+SHOP1691,06-01-2026,Soft Drink 1L,Food & Beverage,7,60,Credit Card,420
+SHOP1692,17-03-2026,Tea 250g,Grocery,6,124,UPI,744
+SHOP1693,21-03-2026,Salt 1kg,Grocery,8,28,Debit Card,224
+SHOP1694,24-01-2026,Onion 1kg,Grocery,4,40,Credit Card,160
+SHOP1695,28-03-2026,Flour 5kg,Grocery,5,218,Credit Card,1090
+SHOP1696,01-01-2026,Tea 250g,Grocery,1,132,UPI,132
+SHOP1697,25-03-2026,Eggs 12 pcs,Food & Beverage,3,85,UPI,255
+SHOP1698,26-03-2026,Soap,Personal Care,7,44,UPI,308
+SHOP1699,30-03-2026,Cooking Oil 1L,Grocery,6,169,UPI,1014
+SHOP1700,17-01-2026,Spices Pack,Grocery,2,54,Cash,108
+SHOP1701,03-01-2026,Coffee 100g,Food & Beverage,2,108,Cash,216
+SHOP1702,03-03-2026,Tissue Pack,Personal Care,4,30,Cash,120
+SHOP1703,22-03-2026,Bathing Bar Pack,Personal Care,7,57,Cash,399
+SHOP1704,19-01-2026,Noodles Pack,Food & Beverage,8,19,UPI,152
+SHOP1705,22-01-2026,Tea 250g,Grocery,2,115,Cash,230
+SHOP1706,04-03-2026,Flour 5kg,Grocery,8,224,UPI,1792
+SHOP1707,26-01-2026,Coffee 100g,Food & Beverage,4,112,Debit Card,448
+SHOP1708,12-02-2026,Handwash 250ml,Personal Care,1,77,Credit Card,77
+SHOP1709,05-03-2026,Eggs 12 pcs,Food & Beverage,7,98,Debit Card,686
+SHOP1710,04-03-2026,Bread,Food & Beverage,7,37,UPI,259
+SHOP1711,24-02-2026,Rice 5kg,Grocery,1,333,Debit Card,333
+SHOP1712,24-03-2026,Detergent 1kg,Personal Care,5,112,UPI,560
+SHOP1713,21-03-2026,Toothpaste,Personal Care,8,78,Debit Card,624
+SHOP1714,03-01-2026,Soap,Personal Care,7,44,Cash,308
+SHOP1715,02-03-2026,Cooking Oil 1L,Grocery,4,173,Debit Card,692
+SHOP1716,17-03-2026,Soap,Personal Care,4,36,Debit Card,144
+SHOP1717,17-01-2026,Face Wash 100g,Personal Care,8,135,Debit Card,1080
+SHOP1718,23-02-2026,Flour 5kg,Grocery,7,225,Debit Card,1575
+SHOP1719,21-03-2026,Spices Pack,Grocery,3,65,Cash,195
+SHOP1720,27-03-2026,Cooking Oil 1L,Grocery,2,172,UPI,344
+SHOP1721,21-01-2026,Biscuits,Food & Beverage,4,22,UPI,88
+SHOP1722,08-02-2026,Eggs 12 pcs,Food & Beverage,8,98,Cash,784
+SHOP1723,03-01-2026,Milk 1L,Food & Beverage,1,66,Debit Card,66
+SHOP1724,23-01-2026,Sugar 1kg,Grocery,3,47,Credit Card,141
+SHOP1725,25-02-2026,Spices Pack,Grocery,6,39,Credit Card,234
+SHOP1726,13-03-2026,Face Wash 100g,Personal Care,2,104,Cash,208
+SHOP1727,15-02-2026,Toothpaste,Personal Care,6,83,Credit Card,498
+SHOP1728,20-01-2026,Salt 1kg,Grocery,5,26,Credit Card,130
+SHOP1729,28-02-2026,Juice 1L,Food & Beverage,8,73,Credit Card,584
+SHOP1730,06-03-2026,Eggs 12 pcs,Food & Beverage,1,88,Credit Card,88
+SHOP1731,16-02-2026,Soft Drink 1L,Food & Beverage,4,58,Cash,232
+SHOP1732,06-03-2026,Flour 5kg,Grocery,8,198,UPI,1584
+SHOP1733,20-01-2026,Flour 5kg,Grocery,2,235,Debit Card,470
+SHOP1734,26-01-2026,Onion 1kg,Grocery,2,39,UPI,78
+SHOP1735,02-03-2026,Tea 250g,Grocery,4,115,Debit Card,460
+SHOP1736,11-01-2026,Cooking Oil 1L,Grocery,3,166,Debit Card,498
+SHOP1737,22-03-2026,Lentils 1kg,Grocery,6,118,Cash,708
+SHOP1738,30-01-2026,Biscuits,Food & Beverage,7,28,Cash,196
+SHOP1739,22-02-2026,Spices Pack,Grocery,7,62,UPI,434
+SHOP1740,04-01-2026,Tissue Pack,Personal Care,6,46,UPI,276
+SHOP1741,11-01-2026,Biscuits,Food & Beverage,2,20,Debit Card,40
+SHOP1742,25-02-2026,Onion 1kg,Grocery,3,47,Credit Card,141
+SHOP1743,26-03-2026,Potato 1kg,Grocery,1,40,Cash,40
+SHOP1744,23-02-2026,Handwash 250ml,Personal Care,5,66,UPI,330
+SHOP1745,10-02-2026,Biscuits Family Pack,Food & Beverage,5,57,Debit Card,285
+SHOP1746,31-03-2026,Coffee 100g,Food & Beverage,3,109,UPI,327
+SHOP1747,11-03-2026,Soap,Personal Care,4,43,UPI,172
+SHOP1748,26-01-2026,Juice 1L,Food & Beverage,7,92,Debit Card,644
+SHOP1749,19-02-2026,Noodles Pack,Food & Beverage,6,15,Cash,90
+SHOP1750,28-01-2026,Shampoo 180ml,Personal Care,5,152,Credit Card,760
+SHOP1751,08-03-2026,Shampoo 180ml,Personal Care,5,152,Debit Card,760
+SHOP1752,03-01-2026,Salt 1kg,Grocery,3,28,Credit Card,84
+SHOP1753,31-01-2026,Spices Pack,Grocery,5,69,Debit Card,345
+SHOP1754,08-01-2026,Flour 5kg,Grocery,2,207,Debit Card,414
+SHOP1755,16-01-2026,Sugar 1kg,Grocery,6,52,Credit Card,312
+SHOP1756,27-02-2026,Salt 1kg,Grocery,2,28,Debit Card,56
+SHOP1757,28-02-2026,Handwash 250ml,Personal Care,1,88,Debit Card,88
+SHOP1758,14-02-2026,Rice 5kg,Grocery,4,367,Debit Card,1468
+SHOP1759,18-02-2026,Cooking Oil 1L,Grocery,3,171,Cash,513
+SHOP1760,16-02-2026,Eggs 12 pcs,Food & Beverage,4,95,UPI,380
+SHOP1761,22-02-2026,Eggs 12 pcs,Food & Beverage,7,89,Credit Card,623
+SHOP1762,17-01-2026,Noodles Pack,Food & Beverage,7,15,UPI,105
+SHOP1763,17-02-2026,Milk 1L,Food & Beverage,2,65,UPI,130
+SHOP1764,03-02-2026,Handwash 250ml,Personal Care,7,82,UPI,574
+SHOP1765,30-03-2026,Bathing Bar Pack,Personal Care,8,63,UPI,504
+SHOP1766,19-01-2026,Flour 5kg,Grocery,3,206,Cash,618
+SHOP1767,07-03-2026,Toothpaste,Personal Care,3,89,Credit Card,267
+SHOP1768,02-03-2026,Juice 1L,Food & Beverage,8,83,Credit Card,664
+SHOP1769,16-01-2026,Flour 5kg,Grocery,6,190,UPI,1140
+SHOP1770,15-03-2026,Eggs 12 pcs,Food & Beverage,6,88,Debit Card,528
+SHOP1771,16-01-2026,Bread,Food & Beverage,3,38,Debit Card,114
+SHOP1772,07-02-2026,Cooking Oil 1L,Grocery,5,161,UPI,805
+SHOP1773,17-03-2026,Coffee 100g,Food & Beverage,3,107,UPI,321
+SHOP1774,28-01-2026,Bread,Food & Beverage,5,34,Cash,170
+SHOP1775,16-01-2026,Dishwash Liquid,Personal Care,1,86,Debit Card,86
+SHOP1776,03-03-2026,Noodles Pack,Food & Beverage,7,15,Debit Card,105
+SHOP1777,18-02-2026,Handwash 250ml,Personal Care,6,79,UPI,474
+SHOP1778,18-01-2026,Dishwash Liquid,Personal Care,3,93,UPI,279
+SHOP1779,20-01-2026,Salt 1kg,Grocery,8,25,Debit Card,200
+SHOP1780,19-02-2026,Noodles Pack,Food & Beverage,7,24,Cash,168
+SHOP1781,27-03-2026,Potato 1kg,Grocery,1,33,UPI,33
+SHOP1782,22-01-2026,Flour 5kg,Grocery,2,197,Credit Card,394
+SHOP1783,13-03-2026,Handwash 250ml,Personal Care,5,85,Credit Card,425
+SHOP1784,25-01-2026,Bathing Bar Pack,Personal Care,2,67,Credit Card,134
+SHOP1785,02-03-2026,Handwash 250ml,Personal Care,4,81,Credit Card,324
+SHOP1786,05-02-2026,Eggs 12 pcs,Food & Beverage,1,90,Cash,90
+SHOP1787,11-01-2026,Rice 5kg,Grocery,8,367,Debit Card,2936
+SHOP1788,04-03-2026,Potato 1kg,Grocery,1,37,Credit Card,37
+SHOP1789,23-02-2026,Onion 1kg,Grocery,3,48,Credit Card,144
+SHOP1790,18-02-2026,Tissue Pack,Personal Care,6,46,Debit Card,276
+SHOP1791,11-03-2026,Noodles Pack,Food & Beverage,2,16,Cash,32
+SHOP1792,02-02-2026,Cooking Oil 1L,Grocery,3,154,Credit Card,462
+SHOP1793,28-03-2026,Biscuits,Food & Beverage,7,24,Cash,168
+SHOP1794,24-01-2026,Bread,Food & Beverage,6,39,Credit Card,234
+SHOP1795,19-02-2026,Juice 1L,Food & Beverage,5,73,Credit Card,365
+SHOP1796,11-02-2026,Onion 1kg,Grocery,7,39,Debit Card,273
+SHOP1797,26-01-2026,Potato 1kg,Grocery,1,29,Cash,29
+SHOP1798,05-03-2026,Salt 1kg,Grocery,4,27,UPI,108
+SHOP1799,10-02-2026,Eggs 12 pcs,Food & Beverage,1,93,UPI,93
+SHOP1800,03-03-2026,Detergent 1kg,Personal Care,2,123,Credit Card,246
+SHOP1801,03-01-2026,Tea 250g,Grocery,4,135,Debit Card,540
+SHOP1802,01-02-2026,Detergent 1kg,Personal Care,2,128,Cash,256
+SHOP1803,27-02-2026,Cooking Oil 1L,Grocery,7,168,Credit Card,1176
+SHOP1804,19-01-2026,Tissue Pack,Personal Care,4,50,Debit Card,200
+SHOP1805,10-03-2026,Detergent 1kg,Personal Care,4,115,UPI,460
+SHOP1806,01-01-2026,Detergent 1kg,Personal Care,1,124,UPI,124
+SHOP1807,25-03-2026,Dishwash Liquid,Personal Care,5,94,Cash,470
+SHOP1808,04-02-2026,Coffee 100g,Food & Beverage,8,105,Debit Card,840
+SHOP1809,14-02-2026,Dishwash Liquid,Personal Care,7,98,Cash,686
+SHOP1810,06-01-2026,Handwash 250ml,Personal Care,5,81,Cash,405
+SHOP1811,08-02-2026,Flour 5kg,Grocery,2,214,Credit Card,428
+SHOP1812,18-01-2026,Potato 1kg,Grocery,2,39,Debit Card,78
+SHOP1813,29-03-2026,Tea 250g,Grocery,6,121,Debit Card,726
+SHOP1814,04-02-2026,Bathing Bar Pack,Personal Care,8,58,Cash,464
+SHOP1815,27-01-2026,Biscuits Family Pack,Food & Beverage,6,45,UPI,270
+SHOP1816,30-03-2026,Face Wash 100g,Personal Care,1,111,Cash,111
+SHOP1817,19-03-2026,Bathing Bar Pack,Personal Care,1,79,UPI,79
+SHOP1818,22-02-2026,Coffee 100g,Food & Beverage,3,105,UPI,315
+SHOP1819,25-03-2026,Salt 1kg,Grocery,2,24,Credit Card,48
+SHOP1820,28-03-2026,Detergent 1kg,Personal Care,8,110,Credit Card,880
+SHOP1821,19-02-2026,Lentils 1kg,Grocery,6,117,Cash,702
+SHOP1822,16-01-2026,Dishwash Liquid,Personal Care,1,99,UPI,99
+SHOP1823,02-01-2026,Lentils 1kg,Grocery,8,111,Cash,888
+SHOP1824,29-03-2026,Flour 5kg,Grocery,5,181,Debit Card,905
+SHOP1825,29-01-2026,Milk 1L,Food & Beverage,5,59,Cash,295
+SHOP1826,05-02-2026,Toothpaste,Personal Care,1,86,UPI,86
+SHOP1827,01-01-2026,Juice 1L,Food & Beverage,4,108,Cash,432
+SHOP1828,15-01-2026,Dishwash Liquid,Personal Care,7,95,Debit Card,665
+SHOP1829,22-01-2026,Handwash 250ml,Personal Care,8,81,Cash,648
+SHOP1830,09-01-2026,Biscuits Family Pack,Food & Beverage,3,58,Cash,174
+SHOP1831,03-02-2026,Flour 5kg,Grocery,3,184,Cash,552
+SHOP1832,28-03-2026,Shampoo 180ml,Personal Care,4,143,Credit Card,572
+SHOP1833,29-03-2026,Juice 1L,Food & Beverage,5,104,UPI,520
+SHOP1834,11-02-2026,Coffee 100g,Food & Beverage,1,111,UPI,111
+SHOP1835,16-01-2026,Tissue Pack,Personal Care,5,43,UPI,215
+SHOP1836,29-01-2026,Toothpaste,Personal Care,1,86,Credit Card,86
+SHOP1837,10-02-2026,Sugar 1kg,Grocery,8,48,Credit Card,384
+SHOP1838,11-01-2026,Potato 1kg,Grocery,6,31,Credit Card,186
+SHOP1839,10-01-2026,Flour 5kg,Grocery,7,194,Cash,1358
+SHOP1840,09-02-2026,Milk 1L,Food & Beverage,6,60,Credit Card,360
+SHOP1841,04-01-2026,Bathing Bar Pack,Personal Care,2,70,UPI,140
+SHOP1842,02-02-2026,Tea 250g,Grocery,6,115,Cash,690
+SHOP1843,13-02-2026,Eggs 12 pcs,Food & Beverage,4,100,Credit Card,400
+SHOP1844,10-01-2026,Dishwash Liquid,Personal Care,4,76,UPI,304
+SHOP1845,16-03-2026,Salt 1kg,Grocery,8,19,Credit Card,152
+SHOP1846,18-02-2026,Noodles Pack,Food & Beverage,1,15,Debit Card,15
+SHOP1847,17-01-2026,Tissue Pack,Personal Care,2,52,Credit Card,104
+SHOP1848,08-02-2026,Spices Pack,Grocery,1,63,UPI,63
+SHOP1849,13-03-2026,Noodles Pack,Food & Beverage,1,16,Credit Card,16
+SHOP1850,13-01-2026,Cooking Oil 1L,Grocery,7,162,UPI,1134
+SHOP1851,28-02-2026,Rice 5kg,Grocery,1,368,UPI,368
+SHOP1852,21-03-2026,Soap,Personal Care,7,45,Credit Card,315
+SHOP1853,08-03-2026,Onion 1kg,Grocery,8,35,Debit Card,280
+SHOP1854,14-01-2026,Handwash 250ml,Personal Care,2,71,Credit Card,142
+SHOP1855,17-03-2026,Face Wash 100g,Personal Care,2,135,Cash,270
+SHOP1856,15-02-2026,Handwash 250ml,Personal Care,5,69,UPI,345
+SHOP1857,24-01-2026,Toothpaste,Personal Care,8,94,Cash,752
+SHOP1858,17-01-2026,Biscuits,Food & Beverage,1,20,Debit Card,20
+SHOP1859,09-02-2026,Handwash 250ml,Personal Care,6,78,Cash,468
+SHOP1860,19-03-2026,Biscuits,Food & Beverage,5,27,Debit Card,135
+SHOP1861,08-03-2026,Cooking Oil 1L,Grocery,1,161,Cash,161
+SHOP1862,24-02-2026,Bread,Food & Beverage,1,33,Debit Card,33
+SHOP1863,09-01-2026,Milk 1L,Food & Beverage,4,61,Debit Card,244
+SHOP1864,30-03-2026,Milk 1L,Food & Beverage,8,68,UPI,544
+SHOP1865,16-03-2026,Face Wash 100g,Personal Care,6,134,Debit Card,804
+SHOP1866,12-02-2026,Face Wash 100g,Personal Care,7,109,Cash,763
+SHOP1867,05-03-2026,Eggs 12 pcs,Food & Beverage,1,99,Cash,99
+SHOP1868,30-03-2026,Coffee 100g,Food & Beverage,4,115,Cash,460
+SHOP1869,31-01-2026,Soap,Personal Care,4,42,UPI,168
+SHOP1870,18-02-2026,Flour 5kg,Grocery,6,229,Cash,1374
+SHOP1871,16-02-2026,Potato 1kg,Grocery,1,30,Credit Card,30
+SHOP1872,13-03-2026,Noodles Pack,Food & Beverage,1,20,Credit Card,20
+SHOP1873,25-01-2026,Biscuits,Food & Beverage,8,24,Debit Card,192
+SHOP1874,26-01-2026,Bread,Food & Beverage,4,30,Debit Card,120
+SHOP1875,23-01-2026,Soft Drink 1L,Food & Beverage,5,62,Debit Card,310
+SHOP1876,23-01-2026,Tissue Pack,Personal Care,4,47,Cash,188
+SHOP1877,13-01-2026,Coffee 100g,Food & Beverage,5,107,Credit Card,535
+SHOP1878,18-02-2026,Dishwash Liquid,Personal Care,3,98,Credit Card,294
+SHOP1879,28-02-2026,Onion 1kg,Grocery,5,41,Cash,205
+SHOP1880,09-03-2026,Lentils 1kg,Grocery,3,116,UPI,348
+SHOP1881,19-01-2026,Juice 1L,Food & Beverage,2,74,Cash,148
+SHOP1882,10-03-2026,Spices Pack,Grocery,4,47,UPI,188
+SHOP1883,18-03-2026,Juice 1L,Food & Beverage,6,93,UPI,558
+SHOP1884,20-03-2026,Bathing Bar Pack,Personal Care,1,57,Cash,57
+SHOP1885,20-01-2026,Tissue Pack,Personal Care,5,47,Debit Card,235
+SHOP1886,17-01-2026,Rice 5kg,Grocery,5,333,UPI,1665
+SHOP1887,02-03-2026,Milk 1L,Food & Beverage,2,69,Credit Card,138
+SHOP1888,05-03-2026,Soft Drink 1L,Food & Beverage,6,67,UPI,402
+SHOP1889,09-03-2026,Soft Drink 1L,Food & Beverage,6,65,UPI,390
+SHOP1890,04-02-2026,Juice 1L,Food & Beverage,8,101,UPI,808
+SHOP1891,27-01-2026,Bathing Bar Pack,Personal Care,1,79,Cash,79
+SHOP1892,20-02-2026,Milk 1L,Food & Beverage,4,65,Cash,260
+SHOP1893,15-03-2026,Cooking Oil 1L,Grocery,7,163,Cash,1141
+SHOP1894,12-03-2026,Dishwash Liquid,Personal Care,5,78,Credit Card,390
+SHOP1895,26-02-2026,Biscuits,Food & Beverage,5,21,Debit Card,105
+SHOP1896,01-03-2026,Rice 5kg,Grocery,1,367,Debit Card,367
+SHOP1897,25-02-2026,Tea 250g,Grocery,8,129,UPI,1032
+SHOP1898,04-02-2026,Lentils 1kg,Grocery,6,120,UPI,720
+SHOP1899,30-01-2026,Coffee 100g,Food & Beverage,8,107,Debit Card,856
+SHOP1900,11-01-2026,Bathing Bar Pack,Personal Care,6,52,Debit Card,312
+SHOP1901,05-02-2026,Dishwash Liquid,Personal Care,2,87,Cash,174
+SHOP1902,16-02-2026,Eggs 12 pcs,Food & Beverage,2,88,Credit Card,176
+SHOP1903,26-01-2026,Detergent 1kg,Personal Care,6,116,Debit Card,696
+SHOP1904,25-01-2026,Sugar 1kg,Grocery,5,46,Cash,230
+SHOP1905,02-01-2026,Tissue Pack,Personal Care,5,54,Debit Card,270
+SHOP1906,21-02-2026,Cooking Oil 1L,Grocery,7,161,Credit Card,1127
+SHOP1907,20-02-2026,Toothpaste,Personal Care,3,95,Cash,285
+SHOP1908,30-01-2026,Rice 5kg,Grocery,8,343,UPI,2744
+SHOP1909,13-02-2026,Flour 5kg,Grocery,8,232,Credit Card,1856
+SHOP1910,31-03-2026,Onion 1kg,Grocery,7,41,UPI,287
+SHOP1911,13-03-2026,Milk 1L,Food & Beverage,8,65,Credit Card,520
+SHOP1912,09-02-2026,Lentils 1kg,Grocery,3,109,Credit Card,327
+SHOP1913,29-01-2026,Toothpaste,Personal Care,6,86,UPI,516
+SHOP1914,11-02-2026,Tea 250g,Grocery,5,127,Credit Card,635
+SHOP1915,18-01-2026,Handwash 250ml,Personal Care,1,90,Cash,90
+SHOP1916,27-01-2026,Onion 1kg,Grocery,7,47,UPI,329
+SHOP1917,25-01-2026,Noodles Pack,Food & Beverage,7,23,UPI,161
+SHOP1918,23-03-2026,Eggs 12 pcs,Food & Beverage,8,95,Debit Card,760
+SHOP1919,28-03-2026,Noodles Pack,Food & Beverage,2,17,Cash,34
+SHOP1920,04-01-2026,Bread,Food & Beverage,8,39,Cash,312
+SHOP1921,06-02-2026,Milk 1L,Food & Beverage,7,59,Cash,413
+SHOP1922,28-02-2026,Rice 5kg,Grocery,2,348,Credit Card,696
+SHOP1923,22-01-2026,Lentils 1kg,Grocery,1,121,Debit Card,121
+SHOP1924,20-02-2026,Tissue Pack,Personal Care,7,59,Cash,413
+SHOP1925,03-03-2026,Eggs 12 pcs,Food & Beverage,7,89,Credit Card,623
+SHOP1926,27-01-2026,Potato 1kg,Grocery,3,31,Debit Card,93
+SHOP1927,19-03-2026,Tea 250g,Grocery,3,130,Debit Card,390
+SHOP1928,05-02-2026,Handwash 250ml,Personal Care,8,71,Cash,568
+SHOP1929,09-01-2026,Coffee 100g,Food & Beverage,8,107,UPI,856
+SHOP1930,14-03-2026,Face Wash 100g,Personal Care,6,105,UPI,630
+SHOP1931,12-01-2026,Soap,Personal Care,1,40,Debit Card,40
+SHOP1932,14-02-2026,Bathing Bar Pack,Personal Care,8,78,Debit Card,624
+SHOP1933,23-02-2026,Potato 1kg,Grocery,3,37,Cash,111
+SHOP1934,19-02-2026,Soft Drink 1L,Food & Beverage,8,68,Cash,544
+SHOP1935,20-02-2026,Juice 1L,Food & Beverage,2,106,Credit Card,212
+SHOP1936,22-03-2026,Rice 5kg,Grocery,5,340,Debit Card,1700
+SHOP1937,05-03-2026,Biscuits Family Pack,Food & Beverage,4,37,UPI,148
+SHOP1938,17-02-2026,Salt 1kg,Grocery,2,26,Credit Card,52
+SHOP1939,22-02-2026,Salt 1kg,Grocery,6,19,UPI,114
+SHOP1940,06-03-2026,Soft Drink 1L,Food & Beverage,4,63,Credit Card,252
+SHOP1941,23-03-2026,Soap,Personal Care,2,33,UPI,66
+SHOP1942,25-01-2026,Potato 1kg,Grocery,7,33,UPI,231
+SHOP1943,15-01-2026,Bread,Food & Beverage,5,30,Cash,150
+SHOP1944,01-03-2026,Onion 1kg,Grocery,8,49,Credit Card,392
+SHOP1945,26-02-2026,Noodles Pack,Food & Beverage,4,23,Cash,92
+SHOP1946,22-01-2026,Toothpaste,Personal Care,3,83,Credit Card,249
+SHOP1947,07-02-2026,Face Wash 100g,Personal Care,3,96,Credit Card,288
+SHOP1948,10-01-2026,Detergent 1kg,Personal Care,3,122,Credit Card,366
+SHOP1949,26-02-2026,Biscuits Family Pack,Food & Beverage,3,43,Debit Card,129
+SHOP1950,28-03-2026,Soft Drink 1L,Food & Beverage,1,61,Cash,61
+SHOP1951,23-03-2026,Soap,Personal Care,1,44,Credit Card,44
+SHOP1952,26-02-2026,Potato 1kg,Grocery,5,39,Credit Card,195
+SHOP1953,18-02-2026,Face Wash 100g,Personal Care,1,90,Cash,90
+SHOP1954,26-01-2026,Rice 5kg,Grocery,4,353,Credit Card,1412
+SHOP1955,02-01-2026,Coffee 100g,Food & Beverage,1,111,Debit Card,111
+SHOP1956,29-01-2026,Dishwash Liquid,Personal Care,2,67,Credit Card,134
+SHOP1957,22-01-2026,Spices Pack,Grocery,3,88,Credit Card,264
+SHOP1958,11-02-2026,Tea 250g,Grocery,2,131,Debit Card,262
+SHOP1959,21-03-2026,Detergent 1kg,Personal Care,4,130,Cash,520
+SHOP1960,16-01-2026,Detergent 1kg,Personal Care,7,122,Cash,854
+SHOP1961,11-02-2026,Milk 1L,Food & Beverage,6,59,Cash,354
+SHOP1962,02-01-2026,Coffee 100g,Food & Beverage,6,111,UPI,666
+SHOP1963,09-01-2026,Milk 1L,Food & Beverage,4,65,Debit Card,260
+SHOP1964,06-01-2026,Bathing Bar Pack,Personal Care,6,69,Credit Card,414
+SHOP1965,18-03-2026,Milk 1L,Food & Beverage,5,64,UPI,320
+SHOP1966,13-01-2026,Eggs 12 pcs,Food & Beverage,5,90,Debit Card,450
+SHOP1967,28-03-2026,Bathing Bar Pack,Personal Care,7,72,Cash,504
+SHOP1968,27-03-2026,Onion 1kg,Grocery,6,40,UPI,240
+SHOP1969,19-03-2026,Noodles Pack,Food & Beverage,1,20,UPI,20
+SHOP1970,06-03-2026,Potato 1kg,Grocery,4,36,Credit Card,144
+SHOP1971,09-02-2026,Rice 5kg,Grocery,2,331,Cash,662
+SHOP1972,21-03-2026,Flour 5kg,Grocery,4,207,Credit Card,828
+SHOP1973,05-03-2026,Bread,Food & Beverage,6,32,Debit Card,192
+SHOP1974,27-01-2026,Milk 1L,Food & Beverage,7,60,Credit Card,420
+SHOP1975,12-02-2026,Rice 5kg,Grocery,8,368,Cash,2944
+SHOP1976,08-03-2026,Sugar 1kg,Grocery,1,47,UPI,47
+SHOP1977,04-01-2026,Bathing Bar Pack,Personal Care,5,76,Cash,380
+SHOP1978,13-02-2026,Tissue Pack,Personal Care,6,53,Cash,318
+SHOP1979,27-03-2026,Milk 1L,Food & Beverage,1,66,Cash,66
+SHOP1980,19-03-2026,Spices Pack,Grocery,4,78,UPI,312
+SHOP1981,26-02-2026,Shampoo 180ml,Personal Care,3,145,Credit Card,435
+SHOP1982,25-01-2026,Noodles Pack,Food & Beverage,2,22,Credit Card,44
+SHOP1983,17-01-2026,Bathing Bar Pack,Personal Care,4,54,Credit Card,216
+SHOP1984,06-03-2026,Soft Drink 1L,Food & Beverage,4,61,Credit Card,244
+SHOP1985,22-01-2026,Tea 250g,Grocery,5,129,Cash,645
+SHOP1986,19-03-2026,Rice 5kg,Grocery,3,357,Cash,1071
+SHOP1987,23-03-2026,Cooking Oil 1L,Grocery,8,159,Cash,1272
+SHOP1988,11-01-2026,Sugar 1kg,Grocery,8,55,Debit Card,440
+SHOP1989,02-03-2026,Potato 1kg,Grocery,3,34,UPI,102
+SHOP1990,20-01-2026,Tea 250g,Grocery,7,131,UPI,917
+SHOP1991,11-01-2026,Coffee 100g,Food & Beverage,7,111,Debit Card,777
+SHOP1992,12-03-2026,Face Wash 100g,Personal Care,3,124,Cash,372
+SHOP1993,09-02-2026,Sugar 1kg,Grocery,8,48,UPI,384
+SHOP1994,10-01-2026,Cooking Oil 1L,Grocery,8,162,Debit Card,1296
+SHOP1995,20-01-2026,Biscuits,Food & Beverage,4,27,Cash,108
+SHOP1996,04-03-2026,Coffee 100g,Food & Beverage,6,105,UPI,630
+SHOP1997,19-02-2026,Tea 250g,Grocery,6,127,UPI,762
+SHOP1998,22-02-2026,Cooking Oil 1L,Grocery,2,170,Credit Card,340
+SHOP1999,25-01-2026,Eggs 12 pcs,Food & Beverage,3,97,UPI,291
+SHOP2000,07-03-2026,Sugar 1kg,Grocery,6,54,UPI,324
